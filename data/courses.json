@@ -1,0 +1,166 @@
+[
+  {
+    "title": "B.A.Y.S. (Bachelor of Acupressure Yoga Science)",
+    "image": "bays.jpg",
+    "description": "3-year professional program in Acupressure and Yoga Science covering therapeutic techniques, pressure points, and natural healing methods.",
+    "feeStructure": {
+      "regularMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 7000/-",
+        "courseFeeYearly": "Rs 12900/-",
+        "examFeeYearly": "Rs 1400/-",
+        "yearWise": {
+          "year1": "Rs 21800/-",
+          "year2": "Rs 14300/-",
+          "year3": "Rs 14300/-"
+        }
+      },
+      "distanceMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 7000/-",
+        "courseFeeYearly": "Rs 10000/-",
+        "examFeeYearly": "Rs 1400/-",
+        "yearWise": {
+          "year1": "Rs 18900/-",
+          "year2": "Rs 11400/-",
+          "year3": "Rs 11400/-"
+        }
+      }
+    },
+    "link": "https://www.bayc.in/bachelor-course.php"
+  },
+  {
+    "title": "Basic Acupressure Course",
+    "image": "basiccourse.jpeg",
+    "description": "Learn the foundational principles of acupressure therapy, key pressure points, and hands-on techniques to promote natural healing.",
+    "originalPrice": "₹4900",
+    "price": "FREE",
+    "link": "https://youtube.com/playlist?list=PLM0vTfwBAEtKaJw5IAZxzrpnECWuodse_&si=kh_hST6EEnm65J9b"
+  },
+  {
+    "title": "M.B.B.A. (Bachelor of Acupressure Bachelor of Magnet)",
+    "image": "mbba.jpg",
+    "description": "3-year professional program combining Acupressure and Magnet Therapy techniques for holistic natural healing and therapeutic treatment.",
+    "feeStructure": {
+      "regularMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 7000/-",
+        "courseFeeYearly": "Rs 12900/-",
+        "examFeeYearly": "Rs 1400/-",
+        "yearWise": {
+          "year1": "Rs 21800/-",
+          "year2": "Rs 14300/-",
+          "year3": "Rs 14300/-"
+        }
+      },
+      "distanceMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 7000/-",
+        "courseFeeYearly": "Rs 10000/-",
+        "examFeeYearly": "Rs 1400/-",
+        "yearWise": {
+          "year1": "Rs 18900/-",
+          "year2": "Rs 11400/-",
+          "year3": "Rs 11400/-"
+        }
+      }
+    },
+    "link": "https://www.bayc.in/bachelor-course.php"
+  },
+  {
+    "title": "B. Ac (Bachelor of Acupuncture)",
+    "image": "bac.jpg",
+    "description": "3-year professional program in Acupuncture therapy focusing on meridian systems, acupuncture points, and traditional healing techniques for holistic health.",
+    "feeStructure": {
+      "regularMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 7000/-",
+        "courseFeeYearly": "Rs 12900/-",
+        "examFeeYearly": "Rs 1400/-",
+        "yearWise": {
+          "year1": "Rs 21800/-",
+          "year2": "Rs 14300/-",
+          "year3": "Rs 14300/-"
+        }
+      },
+      "distanceMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 7000/-",
+        "courseFeeYearly": "Rs 10000/-",
+        "examFeeYearly": "Rs 1400/-",
+        "yearWise": {
+          "year1": "Rs 18900/-",
+          "year2": "Rs 11400/-",
+          "year3": "Rs 11400/-"
+        }
+      }
+    },
+    "link": "https://www.bayc.in/bachelor-course.php"
+  },
+  {
+    "title": "D.A.T. (Diploma in Acupressure Therapy)",
+    "image": "dat.jpg",
+    "description": "Diploma program focuses on practical acupressure therapy techniques, pressure points, and natural methods to treat common health conditions.",
+    "feeStructure": {
+      "regularMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 4000/-",
+        "courseFee": "Rs 14000/-",
+        "examFee": "Rs 1400/-",
+        "totalFee": "Rs 19900/-"
+      },
+      "distanceMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 4000/-",
+        "courseFee": "Rs 12000/-",
+        "examFee": "Rs 1400/-",
+        "totalFee": "Rs 17900/-"
+      }
+    },
+    "link": "https://www.bayc.in/bachelor-course.php"
+  },
+  {
+    "title": "D.A.Y.S. (Diploma in Acupressure Yoga Science)",
+    "image": "days.jpg",
+    "description": "Diploma program combining Acupressure therapy with Yoga science to promote natural healing, balance, and preventive healthcare.",
+    "feeStructure": {
+      "regularMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 4000/-",
+        "courseFee": "Rs 14000/-",
+        "examFee": "Rs 1400/-",
+        "totalFee": "Rs 19900/-"
+      },
+      "distanceMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 4000/-",
+        "courseFee": "Rs 12000/-",
+        "examFee": "Rs 1400/-",
+        "totalFee": "Rs 17900/-"
+      }
+    },
+    "link": "https://www.bayc.in/bachelor-course.php"
+  },
+  {
+    "title": "D. Ac (Diploma in Acupuncture)",
+    "image": "dac.jpg",
+    "description": "Diploma program in Acupuncture focusing on acupuncture points, meridian therapy, and traditional needle-based healing techniques.\n\nAdmission Qualification: 10th Pass\nDuration: One Year",
+    "feeStructure": {
+      "regularMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 4000/-",
+        "courseFee": "Rs 14000/-",
+        "examFee": "Rs 1400/-",
+        "totalFee": "Rs 19900/-"
+      },
+      "distanceMode": {
+        "admissionFormFee": "Rs 500/-",
+        "admissionFee": "Rs 4000/-",
+        "courseFee": "Rs 12000/-",
+        "examFee": "Rs 1400/-",
+        "totalFee": "Rs 17900/-"
+      }
+    },
+    "link": "https://www.bayc.in/bachelor-course.php"
+  }
+]

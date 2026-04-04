@@ -1,0 +1,2170 @@
+{
+  "acupressure_points": [
+    {
+      "name": "LU1",
+      "diseases_signs": "Coughing, asthma, and pain in the chest, shoulder, or arm.",
+      "location": "On the upper chest, about 6 inches away from the center of your chest, in the space just below the first rib.",
+      "image": "lu/lu1.jpg"
+    },
+    {
+      "name": "LU2",
+      "diseases_signs": "Bronchitis, asthma, chest pain, and shoulder pain.",
+      "location": "On the upper outer chest, in the hollow below the collarbone, 6 inches away from the center line of the body.",
+      "image": "lu/lu2.jpg"
+    },
+    {
+      "name": "LU3",
+      "diseases_signs": "Bronchitis, asthma, nosebleeds, goiter, and upper arm pain.",
+      "location": "On the inner upper arm, along the edge of the biceps muscle, about 3 inches down from the front of the armpit.",
+      "image": "lu/lu3.jpg"
+    },
+    {
+      "name": "LU4",
+      "diseases_signs": "Bronchitis, asthma, feeling like throwing up (retching), and upper arm pain.",
+      "location": "On the inner upper arm, 4 inches down from the armpit (one inch below LU3).",
+      "image": "lu/lu4.jpg"
+    },
+    {
+      "name": "LU5",
+      "diseases_signs": "Respiratory infections (cough/asthma), coughing up blood, nosebleeds, arm pain, and heat stroke.",
+      "location": "In the crease of the elbow, on the outer side of the thick tendon in the center.",
+      "image": "lu/lu5.jpg"
+    },
+    {
+      "name": "LU6",
+      "diseases_signs": "Coughing, asthma, coughing up blood, and chest pain.",
+      "location": "On the inner forearm, about 7 inches above the wrist crease, on the line between the elbow and the thumb-side of the wrist.",
+      "image": "lu/lu6.jpg"
+    },
+    {
+      "name": "LU7",
+      "diseases_signs": "Colds (stuffy nose, sore throat, cough), headaches, neck pain, and wrist sprains.",
+      "location": "On the thumb-side of the wrist, about 1.5 inches above the wrist crease, in the notch above the bony point of the radius.",
+      "image": "lu/lu7.jpg"
+    },
+    {
+      "name": "LU8",
+      "diseases_signs": "Cough, asthma, chest pain, sore throat, and wrist pain.",
+      "location": "On the inner wrist, 1 inch above the wrist crease, between the bony point and the radial artery (where you feel your pulse).",
+      "image": "lu/lu8.jpg"
+    },
+    {
+      "name": "LU9",
+      "diseases_signs": "Chronic cough, asthma, coughing up blood, and chest or throat pain.",
+      "location": "Right on the wrist crease, in the soft dip on the thumb-side, next to where you feel your pulse.",
+      "image": "lu/lu9.jpg"
+    },
+    {
+      "name": "LU10",
+      "diseases_signs": "Cough, coughing up blood, sore throat, loss of voice, and fever.",
+      "location": "On the palm side of the hand, at the midpoint of the bone that connects the thumb to the wrist, where the skin color changes from the palm to the back of the hand.",
+      "image": "lu/lu10.jpg"
+    },
+    {
+      "name": "LU11",
+      "diseases_signs": "Fainting or loss of consciousness, severe sore throat, fever, and numbness or tingling in the fingertips.",
+      "location": "On the outer side of the thumb, about 1 mm (0.1 cun) behind the corner of the nail bed (on the side closest to the index finger).",
+      "image": "lu/lu11.jpg"
+    },
+    {
+      "name": "Li 1",
+      "diseases_signs": "Paralysis (palsy), fainting, fever, sore throat, and numbness of fingers.",
+      "location": "It is located on the knuckle of the index finger, exactly 0.1 inches from the corner of the nail.",
+      "image": "li/li1.jpg"
+    },
+    {
+      "name": "Li 2",
+      "diseases_signs": "Runny nose, toothache, sore throat and swelling, fever.",
+      "location": "On the nape of the index finger, on the carpal (knee side), in the depression just before the carpo-phalangeal joint.",
+      "image": "li/li2.jpg"
+    },
+    {
+      "name": "Li 3",
+      "diseases_signs": "Toothache, sore throat and swelling, eye pain, finger joint pain.",
+      "location": "On the nape of the index finger, in the pit just behind the carpo-phalangeal joint.",
+      "image": "li/li3.jpg"
+    },
+    {
+      "name": "Li 4",
+      "diseases_signs": "A key point for diseases of the head, face and five senses (eyes, ears, nose, tongue, skin), especially very good for toothache. Provides relief from body pain. headache. Reducing blood pressure. Relieves fever or cold, good for fever without sweating. To control anhidrosis and excessive sweating. Good for delayed labour. Good for pain or numbness in the upper limbs, especially when there is disturbance in hand movement.",
+      "location": "Located approximately midway on the back of the hand (on the dorsum), between the first and second metacarpal bones, on the knuckle side of the second metacarpal bone.",
+      "image": "li/li4.jpg"
+    },
+    {
+      "name": "Li 5",
+      "diseases_signs": "Headache, congestion, swelling and pain in the eyes, toothache, weakness of the wrists.",
+      "location": "On the dorsal aspect of the wrist, the wrist fissure originates on the radial (knuckle side) side of the wrist, in the depression of the anatomical snuffbox, away from the radial styloid process.",
+      "image": "li/li5.jpg"
+    },
+    {
+      "name": "Li 6",
+      "diseases_signs": "Runny nose, toothache, sore throat, arm pain.",
+      "location": "3 chanyu above Jiangxi (L15), on the line connecting Jiangxi and Qu-chi.",
+      "image": "li/li6.jpg"
+    },
+    {
+      "name": "Li 7",
+      "diseases_signs": "Stomatitis, swelling of the tongue (Glossitis), parotitis, pain in the shoulder and arm.",
+      "location": "5 Chanyu above Jiangxi (L15), on the line connecting liangxi and Quchi.",
+      "image": "li/li7.jpg"
+    },
+    {
+      "name": "Li 8",
+      "diseases_signs": "Pain in the elbow and arm. Headache, dizziness, eye pain. Gurgling and pain in the stomach.",
+      "location": "4 Chanyu lower than the cubital crease, on the line connecting the Yangshi (L15) to the Quchi, on the radial neck of the arm.",
+      "image": "li/li8.jpg"
+    },
+    {
+      "name": "Li 9",
+      "diseases_signs": "Pain in the elbow and arm, hemiparalysis, numbness of the hand and arm. Headache. Gurgling and pain in the stomach.",
+      "location": "3 Chanyu below the cubital crease, on the line connecting the Yangshi (L15) to the Quchi, on the radial neck of the arm.",
+      "image": "li/li9.jpg"
+    },
+    {
+      "name": "Li 10",
+      "diseases_signs": "Numbness and pain in the arm, motor impairment of the upper limbs, and other arm disorders. Stomach pain, diarrhea. Toothache, sore cheek.",
+      "location": "2 Chanyu down from Quchi (Ll11), on the line connecting Quchi to Yangxi (L15).",
+      "image": "li/li10.jpg"
+    },
+    {
+      "name": "Li 11",
+      "diseases_signs": "A key point for ailments of the head, face and five sense organs, often used with Hegu. To reduce fever, it is also used with hay. Lowering blood pressure. Relieves itching, especially in skin irritations. Main point for treating upper limb pain and paralysis.",
+      "location": "When the elbow is flexed, this point is located between the lateral end of the transverse cubical crease of the elbow and the lateral epicondyle of the humerus.",
+      "image": "li/li11.jpg"
+    },
+    {
+      "name": "Li 12",
+      "diseases_signs": "Elbow and arm pain, numbness and cramps, and other localized diseases.",
+      "location": "When the elbow is flexed, it is located 1 inch above the humerus (Ll11) and in the lateral (outside) fossa. It lies directly above the lateral epicondyle of the humerus.",
+      "image": "li/li12.jpg"
+    },
+    {
+      "name": "Li 13",
+      "diseases_signs": "Cramping pain in elbow and arm, enlargement of glands in neck (Scrofula).",
+      "location": "On the cellateral (outside) aspect of the upper arm, 3 chanyu up from the cubit (Ll11), on the line connecting the cubit (Ll11) to the jianyu (Ll15).",
+      "image": "li/li13.jpg"
+    },
+    {
+      "name": "Li 14",
+      "diseases_signs": "Cramping pain and paralysis of the shoulder and arm, convulsions of the neck, and other local affections, scrofula, eye diseases.",
+      "location": "On the line connecting Quchi (Ll11) to Jianyu (Ll15), 7 inches up from Quchi (Ll11), at the end of the deltoid muscle.",
+      "image": "li/li14.jpg"
+    },
+    {
+      "name": "Li 15",
+      "diseases_signs": "Treatment of shoulder joint diseases. Treatment of pain and paralysis of the upper limbs, often used with Quchi and Hegu.",
+      "location": "Just below the anterior border of the acromion, where a depression is formed when the arm is fully extended.",
+      "image": "li/li15.jpg"
+    },
+    {
+      "name": "Li 16",
+      "diseases_signs": "Cramping pain and paralysis of the shoulder and arm, and other localized affections. Scrofula and goiter.",
+      "location": "On the upper aspect of the shoulder, in a depression formed on the medial side of the acromial process, between the upper extremity of the clavicle and the upper part of the spine of the scapula.",
+      "image": "li/li16.jpg"
+    },
+    {
+      "name": "Li 17",
+      "diseases_signs": "Sudden loss of voice, sore throat, and other throat problems. Enlargement of the glands in the neck (scrofula) and goiter.",
+      "location": "On the lateral (outside) side of the neck, between the midpoint of the futu (Ll18) and the supraclavicular fossa, on the neck behind the sternocleidomastoid muscle.",
+      "image": "li/li17.jpg"
+    },
+    {
+      "name": "Li 18",
+      "diseases_signs": "Sore throat, sudden loss of voice, and other throat disorders. Enlargement of neck glands (scrofula) and goiter. Bronchitis, asthma. An acupuncture anesthesia point for neck operations.",
+      "location": "At the nape of the neck, at the level of the laryngeal prominence, between the sternal and clavicular heads of the sternocleidomastoid muscle.",
+      "image": "li/li18.jpg"
+    },
+    {
+      "name": "Li 19",
+      "diseases_signs": "Runny nose, nosebleed, rhinitis, deviation of the mouth, trismus, and other localized diseases.",
+      "location": "Above the upper lip, 0.5 cm outward from the Shuigou (GV26), lateral to the nostril or below the nares.",
+      "image": "li/li19.jpg"
+    },
+    {
+      "name": "Li 20",
+      "diseases_signs": "A key point for nose diseases like yawning nose, poor breathing ability, etc. Treatment of facial sneezing or spasms.",
+      "location": "On the face, in the nasolabial sulcus (the line between the nose and the lips), at the level of the midpoint of the lateral border of the ala of the nose.",
+      "image": "li/li20.jpg"
+    },
+    {
+      "name": "ST1",
+      "diseases_signs": "Twitching of eyelids, drying of eyes due to wind, night blindness, myopia (near vision defect), crookedness of eyes and mouth, facial twitching.",
+      "location": "When the eyes are looking straight ahead, it is directly below the eye, between the infraorbital ridge and the eyeball.",
+      "image": "st/st1.jpg"
+    },
+    {
+      "name": "ST2",
+      "diseases_signs": "Redness, swelling and pain in the eyes, eyelid twitching, glaucoma. Squinting of the eyes and mouth, facial spasms, trigeminal neuralgia, and other facial disorders. Headache, dizziness.",
+      "location": "When the eyes are looking straight ahead, it is located directly below the eye, in a depression above the infraorbital foramen.",
+      "image": "st/st2.jpg"
+    },
+    {
+      "name": "ST3",
+      "diseases_signs": "Squinting of the eyes and mouth, nosebleed, toothache, swelling of the lips and cheeks, and diseases of the other five sense organs.",
+      "location": "When the eyes are looking straight ahead, it lies directly below the ulna, at the level of the lateral border of the ala nasi, on the outside of the nasolabial sulcus (the line between the nose and the lips).",
+      "image": "st/st3.jpg"
+    },
+    {
+      "name": "ST4",
+      "diseases_signs": "Chaherekelakaveya Anthan Keli A Makhyu Bn Du. Treatment of excessive drooling/slobbering.",
+      "location": "Patu li ke thik neeche, memhu ke kone se 0.4 chanu outwards (horizontally).",
+      "image": "st/st4.jpg"
+    },
+    {
+      "name": "ST5",
+      "diseases_signs": "Squinting of the mouth and eyes, swelling in the cheeks, toothache, and diseases of the local area.",
+      "location": "Similar to the angle of the mandible, in a depression on the nape of the masseter, near the nerve of the facial artery.",
+      "image": "st/st5.jpg"
+    },
+    {
+      "name": "ST6",
+      "diseases_signs": "A focal point for facial cramps, often used with Dicang. Treatment of pain in the lower branch of the trigeminal nerve. Jaw Clenching (trismus) or Man Hu Keni Chalehi Ssemendant Kedarache Ka Cure. Treatment of mumps (parotitis), often used with Yifeng.",
+      "location": "When the teeth are clenched, it is located in front of and above the angle of the mandible, at the bulge of the masseter muscle, about one finger-breadth away.",
+      "image": "st/st6.jpg"
+    },
+    {
+      "name": "ST7",
+      "diseases_signs": "Temporomandibular joint (TMJ) syndrome, trigeminal neuralgia, toothache, squinting of the eyes and mouth, and other facial disorders. Deafness, tinnitus, otorrhea, otitis media.",
+      "location": "The zygomatic arch moves down the nape of the head, into a depression formed by the condyloid process of the mandibular notch, just forward (similar to an earlobe).",
+      "image": "st/st7.jpg"
+    },
+    {
+      "name": "ST8",
+      "diseases_signs": "Headaches, dizziness (vertigo), eye pain, and other problems of the head and eyes.",
+      "location": "At the corner of the head, 0.5 points directly above the hairline, and 4.5 points outward from the shenting (GV24) in the midline.",
+      "image": "st/st8.jpg"
+    },
+    {
+      "name": "ST9",
+      "diseases_signs": "Enlargement of the glands of the neck (Scrofula) and goiter. Sore throat. High blood pressure. Asthma.",
+      "location": "The laryngeal prominence is located at the level of the sternocleidomastoid (SCM) muscle, 1.5 cm outwards, in the depression formed between the anterior nares of the sternocleidomastoid (SCM) muscle and the lateral nares of the thyroid cartilage.",
+      "image": "st/st9.jpg"
+    },
+    {
+      "name": "ST10",
+      "diseases_signs": "Sore throat and local area diseases. Bronchitis, asthma.",
+      "location": "On the neck, at the nape of the sternocleidomastoid muscle, at the midpoint of the line connecting the Renying (ST9) and Qishe (ST11).",
+      "image": "st/st10.jpg"
+    },
+    {
+      "name": "ST11",
+      "diseases_signs": "Sore throat. Enlargement of the glands of the neck (Scrofula) and goiter. Asthma and hiccups. Pain and rigidity of neck.",
+      "location": "On the neck, on the upper edge of the medial edge of the clavicle, between the sternal and clavicular edges of the sternocleidomastoid muscle.",
+      "image": "st/st11.jpg"
+    },
+    {
+      "name": "ST12",
+      "diseases_signs": "bronchitis, asthma, sore throat, supraclavivicular pit pain, and local rheumatism. Enlargement of neck glands (Scrofula).",
+      "location": "Supraclavivicular region (pit above the clavicle), behind the midpoint of the upper clavicle, outwards from the middle placement, on the maxixillary placement.",
+      "image": "st/st12.jpg"
+    },
+    {
+      "name": "ST13",
+      "diseases_signs": "Bronchitis, asthma, sneezing, and other diseases caused by imbalance of the up and down flow of Qi. Chest pain and fullness.",
+      "location": "Move the center point of the hand towards the nape, from the center point 4 points outwards.",
+      "image": "st/st13.jpg"
+    },
+    {
+      "name": "ST14",
+      "diseases_signs": "Bronchitis, asthma, whistling sound with discharge of pus and blood, and other lung diseases. Chest pain and fullness.",
+      "location": "In the first intercostal space, 4 points outward from the middle position.",
+      "image": "st/st14.jpg"
+    },
+    {
+      "name": "ST15",
+      "diseases_signs": "Bronchitis, asthma, whistling sound with expectoration of pus and blood. Chest pain and fullness. Hypochondria and mammary abscess.",
+      "location": "In the second intercostal space, 4 points outward from the middle position.",
+      "image": "st/st15.jpg"
+    },
+    {
+      "name": "ST16",
+      "diseases_signs": "Bronchitis, asthma, whistling sound with expectoration of pus and blood. Chest pain and fullness. Mammary abscess.",
+      "location": "In the third intercostal space (the third space between the ribs), 4 points outward from the middle position.",
+      "image": "st/st16.jpg"
+    },
+    {
+      "name": "ST17",
+      "diseases_signs": "This point is not used for acupuncture and moxibustion; it serves only as a landmark to locate acupuncture points on the chest and abdomen.",
+      "location": "In the fourth intercostal space, right in the center of the nipple.",
+      "image": "st/st17.jpg"
+    },
+    {
+      "name": "ST18",
+      "diseases_signs": "Hypochondria and breast abscess, lack of milk. Bronchitis, asthma, nausea. Chest pain.",
+      "location": "Place 4 points outward from the center, in the fifth intercostal space, below the nipple.",
+      "image": "st/st18.jpg"
+    },
+    {
+      "name": "ST19",
+      "diseases_signs": "Vomiting, stomachache, anorexia, abdominal distension.",
+      "location": "In the upper part of the belt, 6 Chanu above the center of the navel, 2 Chanu outwards from the middle place.",
+      "image": "st/st19.jpg"
+    },
+    {
+      "name": "ST20",
+      "diseases_signs": "Stomachache, hematemesis, anorexia.",
+      "location": "In the upper part of the abdomen (epigastrium), 5 points above the center of the navel, 2 points outward from the middle point.",
+      "image": "st/st20.jpg"
+    },
+    {
+      "name": "ST21",
+      "diseases_signs": "Anorexia, stomachache, vomiting.",
+      "location": "In the upper part of the abdomen (epigastrium), 4 points above the center of the navel, 2 points outward from the middle point.",
+      "image": "st/st21.jpg"
+    },
+    {
+      "name": "ST22",
+      "diseases_signs": "Distending pain in the abdomen, borborygmus, diarrhea, and other diseases of the stomach and intestines.",
+      "location": "In the upper part of the abdomen (epigastrium), 3 points above the center of the navel, 2 points outward from the middle point.",
+      "image": "st/st22.jpg"
+    },
+    {
+      "name": "ST23",
+      "diseases_signs": "Stomachache. Vexation. Epilepsy and mania.",
+      "location": "On the belt, 2 Chanu above the center of the navel, 2 Chanu outwards from the middle place.",
+      "image": "st/st23.jpg"
+    },
+    {
+      "name": "ST24",
+      "diseases_signs": "Stomachache, vomiting. Epilepsy and mania.",
+      "location": "In the upper part of the belt, 1 Chanu above the navel, 2 Chanu from the middle towards the outside.",
+      "image": "st/st24.jpg"
+    },
+    {
+      "name": "ST25",
+      "diseases_signs": "Main points for intestinal diseases like stomach pain, diarrhoea, constipation, dysentery, appendicitis, etc. Paralysis of abdominal muscles.",
+      "location": "At the level of the navel, 2 points outwards from the middle position.",
+      "image": "st/st25.jpg"
+    },
+    {
+      "name": "ST26",
+      "diseases_signs": "Stomach pain, hernia, dysmenorrhea.",
+      "location": "In the moving part of the belt, 1 Chanu below the navel and 2 Chanu from the middle towards the outside.",
+      "image": "st/st26.jpg"
+    },
+    {
+      "name": "ST27",
+      "diseases_signs": "Pate kenni chalehi sesmensju na (Lower abdominal distension). Dysuria. Hernia. Nocturnal emission.",
+      "location": "Keep the belt moving on the head, 2 Chanu below the navel, and 2 Chanu from the middle towards the outside.",
+      "image": "st/st27.jpg"
+    },
+    {
+      "name": "ST28",
+      "diseases_signs": "Pate kenni chalehi sesmensju na (Lower abdominal distension). Dysuria. Hernia. Dysmenorrhea, ascites.",
+      "location": "The belt moves on the body, 3 chanus below the navel, and 2 chanus from the middle towards the outside.",
+      "image": "st/st28.jpg"
+    },
+    {
+      "name": "ST29",
+      "diseases_signs": "Pate keni chalehi ssemensju n (Lower abdominal distension), hernia. Irregular menstruation, leucorrhea, prolapse of uterus.",
+      "location": "The belt moves on the body, 4 Chanu below the navel, and 2 Chanu from the middle towards the outside.",
+      "image": "st/st29.jpg"
+    },
+    {
+      "name": "ST30",
+      "diseases_signs": "Lower abdominal pain, borborygmus. Hernia. Irregular menstruation, leucorrhea, impotence, swelling of the vulva.",
+      "location": "In the lower part of the stomach, 1 point above the pubic symphysis, 5 points below the center of the navel, 2 points outward from the middle point.",
+      "image": "st/st30.jpg"
+    },
+    {
+      "name": "ST31",
+      "diseases_signs": "Paralysis of the legs, lumbago, cold invasion of the knee, and other diseases of the immobile limbs. Beriberi.",
+      "location": "On the upper thigh, at the junction of the lateral nares of the patella and the transverse gluteal fold. It is located at the junction of the vertical line drawn down from the anterior superior iliac spine, in the lateral depression of the sartorius muscle, and the horizontal line drawn down from the nares running down the pubic symphysis.",
+      "image": "st/st31.jpg"
+    },
+    {
+      "name": "ST32",
+      "diseases_signs": "Paralysis of the legs, lumbago, cold invasion of the knee, and other diseases of the limbs. Herniation. Beriberi.",
+      "location": "On the thigh, at the junction connecting the anterior superior iliac spine and the lateral scapula of the patella, 6 inches above the upper scapula of the patella.",
+      "image": "st/st32.jpg"
+    },
+    {
+      "name": "ST33",
+      "diseases_signs": "Flaccidity and arthralgia in the leg and knee, dyskinesia. Hernia.",
+      "location": "On the thigh, in a depression 3 inches above the upper-lateral notch of the kneecap, on the surface connecting the lateral notch of the kneecap (patella) and the anterior superior iliac spine.",
+      "image": "st/st33.jpg"
+    },
+    {
+      "name": "ST34",
+      "diseases_signs": "Acute gastric pain, acute mastitis. Swelling and pain of the knee joint, paralysis or weakness of the lower extremities.",
+      "location": "2 inches above the lateral superior nares of the patella.",
+      "image": "st/st34.jpg"
+    },
+    {
+      "name": "ST35",
+      "diseases_signs": "For diseases of the knee joint and soft tissues.",
+      "location": "When the knee is bent, the kneecap moves only on the knee, in the lateral depression of the patellar ligament.",
+      "image": "st/st35.jpg"
+    },
+    {
+      "name": "ST36",
+      "diseases_signs": "Main point for gastro-intestinal diseases. Used to treat cough, asthma, etc. Used to lower or increase blood pressure. Used to treat fainting and insomnia. Important point for strengthening the body's resistance to diseases and restoring vital energy. Often used with the Hegu point, to treat diseases of the head, face, and five sense organs. A key point for paralysis of the lower extremities. diabetes.",
+      "location": "On the lower leg, 3 inches below the Dubi (ST35), a finger's width outward from the anterior crest of the tibia. This is the He-Sea point.",
+      "image": "st/st36.jpg"
+    },
+    {
+      "name": "ST37",
+      "diseases_signs": "Borborygmus, abdominal pain, acute or chronic diarrhea, constipation, acute appendicitis, and other diseases of the stomach and intestines. Pain or paralysis of the lower extremities.",
+      "location": "On the knee, 6 pt down from Dubi (ST35) (or 3 pt down from Zusanli (ST36)), one finger width out from the anterior crest of the tibia.",
+      "image": "st/st37.jpg"
+    },
+    {
+      "name": "ST38",
+      "diseases_signs": "Pain or paralysis of the lower extremities, spasms. Aching of the shoulder and arm. Pain in the stomach.",
+      "location": "On the lower leg, the Dubi (ST35) is located 8 points down (or 8 points down from the ventral crest of the tibia or tibia). It is located 1 point outward from the midpoint between the popliteal crease and the tip of the medial malleolus, lateral to the ventral crest of the tibia or tibia.",
+      "image": "st/st38.jpg"
+    },
+    {
+      "name": "ST39",
+      "diseases_signs": "Diarrhea, dysentery, lower abdominal pain. Flaccidity and arthralgia in the leg and knee. Mammary abscess.",
+      "location": "On the bottom, 9 points below the Dubi (ST35) (or 9 points below the anterior crest of the tibia), one finger's width outward from the anterior crest of the tibia.",
+      "image": "st/st39.jpg"
+    },
+    {
+      "name": "ST40",
+      "diseases_signs": "Cough, asthma, dizziness, mental disorder, indigestion, numbness of the lower limbs.",
+      "location": "8 Chanyu up and forward from the external malleolus of the ankle, two finger widths outward from the anterior border of the tibia, and one finger width lateral from Tiaokou (ST38).",
+      "image": "st/st40.jpg"
+    },
+    {
+      "name": "ST41",
+      "diseases_signs": "Mainly for diseases of the condylar articulation and local area of soft tissues. Paralysis of immobile limbs and foot drop.",
+      "location": "On the para dorsum, in the posterior fossa of the ankle joint, at the junction of the tendons of the m. extensor digitorum longus and m. hallucis longus.",
+      "image": "st/st41.jpg"
+    },
+    {
+      "name": "ST42",
+      "diseases_signs": "Facial paralysis, toothache, headache. Paralysis of the limbs, pain in the instep.",
+      "location": "On the para dorsum (upper part), below the Jiexi (ST41), in the depression between the second and third metatarsal bones and the cuneiform bone.",
+      "image": "st/st42.jpg"
+    },
+    {
+      "name": "ST43",
+      "diseases_signs": "Facial edema, stomach pain, borborygmus. Pain in the instep.",
+      "location": "In the depression on the upper part of the foot, away from the joint of the second and third metatarsal bones.",
+      "image": "st/st43.jpg"
+    },
+    {
+      "name": "ST44",
+      "diseases_signs": "Toothache in the upper jaw, sore throat, wry mouth, epistaxis. Abdominal distension, constipation, stomach pain. Swelling and pain in the dorsum of the foot.",
+      "location": "On the upper part of the leg, at the junction of the red and white skin at the web margin between the second and third toes.",
+      "image": "st/st44.jpg"
+    },
+    {
+      "name": "ST45",
+      "diseases_signs": "Hysteria, insomnia, tonsillitis.",
+      "location": "On the lateral side of the other leg, about 0.1 inch back from the corner of the nail.",
+      "image": "st/st45.jpg"
+    },
+    {
+      "name": "SP1",
+      "diseases_signs": "Irregular menstruation. Indigestion. Mental disorder.",
+      "location": "The fingernail is located on the medial side of the nail, approximately 0.1 inch behind the corner of the nail.",
+      "image": "sp/sp1.jpg"
+    },
+    {
+      "name": "SP2",
+      "diseases_signs": "Stomachache. Constipation. Diarrhea. Fever without sweating.",
+      "location": "On the inside of the toe, in front of and below the 1st metatarsophalangeal joint, where red and white skin meet.",
+      "image": "sp/sp2.jpg"
+    },
+    {
+      "name": "SP3",
+      "diseases_signs": "Stomach pain, vomiting. Diarrhoea, dysentery. Constipation.",
+      "location": "On the inside of the foot, in the depression behind and below the 1st metatarsophalangeal joint.",
+      "image": "sp/sp3.jpg"
+    },
+    {
+      "name": "SP4",
+      "diseases_signs": "Key points for gastrointestinal diseases, such as stomach pain, stomach cramps, vomiting and diarrhea; Local pain.",
+      "location": "On the back and inside of the first metatarso-phalangeal joint, where red and white skin meet.",
+      "image": "sp/sp4.jpg"
+    },
+    {
+      "name": "SP5",
+      "diseases_signs": "Abdominal distension, diarrhea, constipation, and jaundice.",
+      "location": "In the depression below and in front of the base of the 1st metatarsal bone, where red and white skin meet; in the depression at the front and bottom of the inner ankle (median malleolus).",
+      "image": "sp/sp5.jpg"
+    },
+    {
+      "name": "SP6",
+      "diseases_signs": "A key point for gastrointestinal ailments; diseases of the urinary system (urinary retention, edema, high urine output/enuresis); diseases of the genital system (anemia, nocturnal emission, amenorrhea, dysmenorrhea, vaginal discharge); used to bring peace and calmness by lowering blood pressure; pain and paralysis of immobile limbs. diabetes. insomnia.",
+      "location": "From the tip of the inner ankle (medial malleolus) directly above the 3rd toe, to the nape of the tibia bone.",
+      "image": "sp/sp6.jpg"
+    },
+    {
+      "name": "SP7",
+      "diseases_signs": "Bloating, borborygmus, dysuria, nocturnal emission, numbness, and paralysis of the lower extremity.",
+      "location": "On the inside of the foot, 3 inches above the Sanyinjiao (SP6), in the depression behind the inner tibia; or 6 inches above the top of the inner ankle, behind the tibia.",
+      "image": "sp/sp7.jpg"
+    },
+    {
+      "name": "SP8",
+      "diseases_signs": "Irregular menstruation, dysmenorrhea, diarrhea, dysentery, edema, and seminal emission.",
+      "location": "3 inches below the medial condyle of the tibia.",
+      "image": "sp/sp8.jpg"
+    },
+    {
+      "name": "SP9",
+      "diseases_signs": "Polyuria, urgency of urination, painful urination, retention of urine, edema, diarrhea, and pain in the knee joint and surrounding soft tissues.",
+      "location": "The medial condyle of the tibia moves down into the depression on the neck.",
+      "image": "sp/sp9.jpg"
+    },
+    {
+      "name": "SP10",
+      "diseases_signs": "Irregular menstruation, dysmenorrhea, urticaria, erysipelas, eczema, and pain in the knee joint and surrounding soft tissues.",
+      "location": "2 finger lumps above the inner nape of the base of the patella (kneecap).",
+      "image": "sp/sp10.jpg"
+    },
+    {
+      "name": "SP11",
+      "diseases_signs": "Urination retention, swelling and pain in the inguinal region.",
+      "location": "6 fingers up from Xuehai (SP10), on the line of the Spleen meridian.",
+      "image": "sp/sp11.jpg"
+    },
+    {
+      "name": "SP12",
+      "diseases_signs": "Abdominal pain, hernia, and urinary retention.",
+      "location": "Above the inguinal groove of the thigh, on the lateral side of the femoral artery, 3.5 inches outward from the middle line of the bandage.",
+      "image": "sp/sp12.jpg"
+    },
+    {
+      "name": "SP13",
+      "diseases_signs": "Abdominal pain, hernia, and abdominal mass.",
+      "location": "0.7 inch knot from Chongmen (SP12) up and 4 inch knot from the middle layer of the pate outwards.",
+      "image": "sp/sp13.jpg"
+    },
+    {
+      "name": "SP14",
+      "diseases_signs": "Pain around the umbilical region, hernia, and diarrhea.",
+      "location": "1.3 inches down from Dahuang (SP15), 4 inches outwards from the middle layer of the belt.",
+      "image": "sp/sp14.jpg"
+    },
+    {
+      "name": "SP15",
+      "diseases_signs": "Abdominal pain and distension, diarrhea and constipation.",
+      "location": "At the level of the umbilicus, 4 fingers extend outwards from the middle layer of the scapula.",
+      "image": "sp/sp15.jpg"
+    },
+    {
+      "name": "SP16",
+      "diseases_signs": "Abdominal pain, indigestion, and constipation.",
+      "location": "3 finger knots above the navel and 4 finger knots outwards from the middle of the belt.",
+      "image": "sp/sp16.jpg"
+    },
+    {
+      "name": "SP17",
+      "diseases_signs": "Pain in the chest and hypochondriac region, borborygmus, and diarrhea.",
+      "location": "Six fingers extend outward from the middle of the chest, in the 5th intercostal space.",
+      "image": "sp/sp17.jpg"
+    },
+    {
+      "name": "SP18",
+      "diseases_signs": "Chest oppression and pain, cough, and swelling and pain in the breast (Mastitis/Breast pain).",
+      "location": "In the 4th intercostal space, 6 fingers extend outward from the middle of the chest.",
+      "image": "sp/sp18.jpg"
+    },
+    {
+      "name": "SP19",
+      "diseases_signs": "Fullness and pain in the chest and hypochondriac region.",
+      "location": "In the 3rd intercostal space, 6 fingers extend outward from the middle of the chest.",
+      "image": "sp/sp19.jpg"
+    },
+    {
+      "name": "SP20",
+      "diseases_signs": "Fullness in the chest and hypochondriac region, cough, and shortness of breath.",
+      "location": "In the 2nd intercostal space, 6 fingers extend outward from the middle of the chest.",
+      "image": "sp/sp20.jpg"
+    },
+    {
+      "name": "SP21",
+      "diseases_signs": "Pain in the chest and hypochondriac region, asthma/shortness of breath, pain in the whole body, and lassitude of the limbs.",
+      "location": "On the medial side of the axilla, in the 6th intercostal space.",
+      "image": "sp/sp21.jpg"
+    },
+    {
+      "name": "HT1",
+      "diseases_signs": "Chest pain, rapid heartbeat, pain between the ribs, paralysis of the arm, lump in the armpit, and armpit odor.",
+      "location": "In the middle of the armpit, next to an artery.",
+      "image": "ht/ht1.jpg"
+    },
+    {
+      "name": "HT2",
+      "diseases_signs": "Headache, chills, pain under the ribs, shoulder, and upper arm.",
+      "location": "Three toes above the elbow joint, on the joint connecting the armpit and the elbow.",
+      "image": "ht/ht2.jpg"
+    },
+    {
+      "name": "HT3",
+      "diseases_signs": "Fast heartbeat, heart pain, stiffness in the hands, and pain in and around the elbow joint.",
+      "location": "When the elbow is flexed, exactly midway between the medial epicondyle and the medial epicondyle inside the elbow joint.",
+      "image": "ht/ht3.jpg"
+    },
+    {
+      "name": "HT4",
+      "diseases_signs": "Heart pain, hysteria, hoarseness or loss of voice, and wrist joint pain.",
+      "location": "1.5 inches above the wrist point (Shenmen), at the base of the wrist tendon.",
+      "image": "ht/ht4.jpg"
+    },
+    {
+      "name": "HT5",
+      "diseases_signs": "Heart pain, very slow heartbeat, anxiety, and difficulty speaking.",
+      "location": "One finger above the wrist point (Shenmen), at the tip of the wrist tendon.",
+      "image": "ht/ht5.jpg"
+    },
+    {
+      "name": "HT6",
+      "diseases_signs": "Heart pain, irregular heartbeat, weakness, insomnia, night sweats, and loss of voice.",
+      "location": "0.5 inches above the wrist (Shenmen).",
+      "image": "ht/ht6.jpg"
+    },
+    {
+      "name": "HT7",
+      "diseases_signs": "Insomnia, epilepsy, mental disorders, heart problems like palpitations or heart pain, and wrist pain.",
+      "location": "At the point of the wrist joint, in the depression towards the little finger.",
+      "image": "ht/ht7.jpg"
+    },
+    {
+      "name": "HT8",
+      "diseases_signs": "Irregular heartbeat, heart pain, urinary retention, bloody urine, and cramps of little finger.",
+      "location": "On the palm, between the bones of the fourth and fifth fingers (where the tip of the little finger touches when the fist is closed).",
+      "image": "ht/ht8.jpg"
+    },
+    {
+      "name": "HT9",
+      "diseases_signs": "Heart attack, mental disorders, and coma.",
+      "location": "About 0.1 inch behind the root corner of the little fingernail (on the side of the thumb).",
+      "image": "ht/ht9.jpg"
+    },
+    {
+      "name": "SI1",
+      "diseases_signs": "Fainting, boils, breast carbuncle, lack of milk, and numbness of the fingertips.",
+      "location": "On the outer tip of the little finger, about 0.1 inch behind the corner of the nail.",
+      "image": "si/si1.jpg"
+    },
+    {
+      "name": "SI2",
+      "diseases_signs": "Fever, headache, eye pain, lack of milk, and numbness in fingers.",
+      "location": "On the outside of the palm, just ahead of the little finger joint (5th metacarpophalangeal joint) where the skin color changes.",
+      "image": "si/si2.jpg"
+    },
+    {
+      "name": "SI3",
+      "diseases_signs": "Diseases of the head, face, ears, and eyes; stiffness and pain in the neck; malaria; and cramps in the fingers.",
+      "location": "At the end of the palm of the hand, behind the little finger joint, where the skin color changes when the fist is closed.",
+      "image": "si/si3.jpg"
+    },
+    {
+      "name": "SI4",
+      "diseases_signs": "Headache, stiff neck, acute lumbar sprain, cholecystitis, and pain in the wrist joint.",
+      "location": "Near the wrist, in the depression between the base of the 5th metacarpal and the triquetrum bone.",
+      "image": "si/si4.jpg"
+    },
+    {
+      "name": "SI5",
+      "diseases_signs": "Fever, mental disorders, headache, tinnitus, deafness, and pain in the wrist joints.",
+      "location": "On the outside of the wrist, in the depression between the styloid process of the ulna and the trigeminal bone.",
+      "image": "si/si5.jpg"
+    },
+    {
+      "name": "SI6",
+      "diseases_signs": "Blurred vision, stiff neck, and pain in elbows and hands.",
+      "location": "On top of the wrist, in the depression near the ulna.",
+      "image": "si/si6.jpg"
+    },
+    {
+      "name": "SI7",
+      "diseases_signs": "Fever, headache, mental disorders, stiff neck, and pain in the elbow and hand.",
+      "location": "Five toes above the wrist (Yanggu), at the junction of the elbow and wrist.",
+      "image": "si/si7.jpg"
+    },
+    {
+      "name": "SI8",
+      "diseases_signs": "Epilepsy, mental disorders, stiffness of neck, and pain in elbows and hands.",
+      "location": "In the depression between the two bones (olecranon and medial epicondyle) at the back of the elbow, when the elbow is bent.",
+      "image": "si/si8.jpg"
+    },
+    {
+      "name": "SI9",
+      "diseases_signs": "Pain in the shoulders and arms, difficulty moving the hands, and swelling of the glands in the neck (scrofula).",
+      "location": "Behind the shoulder, 1 finger up from the end of the back armpit.",
+      "image": "si/si9.jpg"
+    },
+    {
+      "name": "SI10",
+      "diseases_signs": "Pain in the shoulder and arm, and swelling of the glands in the neck (scrofula).",
+      "location": "Behind the shoulder, in the depression just below the upper projection of the scapula.",
+      "image": "si/si10.jpg"
+    },
+    {
+      "name": "SI11",
+      "diseases_signs": "Pain in the shoulder and upper arm, stiffness around the shoulder blade, and pain in the scapular region.",
+      "location": "In the middle of the scapula; in the upper and middle 1/3 of the scapular spine, between the nape of the shoulder and the inferior angle of the shoulder.",
+      "image": "si/si11.jpg"
+    },
+    {
+      "name": "SI12",
+      "diseases_signs": "Pain in the shoulder and difficulty in raising the arm; pain in the back of the shoulder, numbness and pain in the upper limbs (arms).",
+      "location": "Just above the spine of the scapula, in the middle depression (directly above SI11); in the middle of the supraspinatus fossa.",
+      "image": "si/si12.jpg"
+    },
+    {
+      "name": "SI13",
+      "diseases_signs": "Pain and stiffness in the upper part of the shoulder bone, and pain in the scapular region.",
+      "location": "In the hollow of the shoulder blade on the upper bulge of the shoulder bone; behind the shoulder, inside the supraclavicular fossa, at the midpoint between SI10 and the second thoracic vertebra.",
+      "image": "si/si13.jpg"
+    },
+    {
+      "name": "SI14",
+      "diseases_signs": "Shoulder and back pain, and stiff neck; stiffness in the neck and some parts of the back of the neck.",
+      "location": "3 fingers out from the sternum (T3 vertebrae); the first thoracic vertebra (T1) moves 3 fingers outward from the nape, at the level of the GV13 point.",
+      "image": "si/si14.jpg"
+    },
+    {
+      "name": "SI15",
+      "diseases_signs": "Cough, asthma, and shoulder and back pain.",
+      "location": "2 fingers outward from the most prominent joint of the neck (C7 vertebrae); the seventh cervical vertebra (C7) moves 2 inches outward from the nape, at the level of the GV14 point.",
+      "image": "si/si15.jpg"
+    },
+    {
+      "name": "SI16",
+      "diseases_signs": "Deafness, tinnitus, sciatica, laryngitis, sore throat, sudden loss of voice, and neck pain and stiffness.",
+      "location": "At the nape of the neck, at the level of the Adam's apple, behind the large nerve; on the side of the neck, behind the sternocleidomastoid muscle, at the level of the Adam's apple and behind LI18.",
+      "image": "si/si16.jpg"
+    },
+    {
+      "name": "SI17",
+      "diseases_signs": "Deafness, ringing in the ears, a feeling of something stuck in the throat, sore throat, sudden loss of voice, and pain and stiffness in the neck and surrounding areas.",
+      "location": "Behind the jawbone and in the larynx, next to the large neck muscle; on the side of the neck, behind the angle of the mandible, in a depression located on the front of the sternocleidomastoid muscle.",
+      "image": "si/si17.jpg"
+    },
+    {
+      "name": "SI18",
+      "diseases_signs": "Facial paralysis, eyelid twitching, toothache, and other facial problems.",
+      "location": "In the depression just below the nape of the zygomatic bone; just below the outer canthus of the eye.",
+      "image": "si/si18.jpg"
+    },
+    {
+      "name": "SI19",
+      "diseases_signs": "Deafness, tinnitus, and earache.",
+      "location": "In the depression between the tragus and the jaw joint (this depression deepens when the mouth is opened).",
+      "image": "si/si19.jpg"
+    },
+    {
+      "name": "UB1",
+      "diseases_signs": "Main eye diseases such as optic nerve weakness, squint, color blindness and conjunctivitis.",
+      "location": "0.1 inch above the inner corner of the eye.",
+      "image": "ub/ub1.jpg"
+    },
+    {
+      "name": "UB2",
+      "diseases_signs": "Headache, facial nerve pain, twitching of eyelids, crooked eyes and mouth, weakness of eyes, swelling or redness in the eyes and dizziness.",
+      "location": "Near the inner corner of the eyebrow, in the depression just above the inner corner of the eye.",
+      "image": "ub/ub2.jpg"
+    },
+    {
+      "name": "UB3",
+      "diseases_signs": "Headache, dizziness, blocked nose and runny nose.",
+      "location": "Just above UB2, 0.5 inches from the forehead hairline.",
+      "image": "ub/ub3.jpg"
+    },
+    {
+      "name": "UB4",
+      "diseases_signs": "Headache, dizziness, blocked nose and runny nose.",
+      "location": "0.5 inch bundle above the hairline on the forehead and 1.5 inch bundle outwards from the middle bundle.",
+      "image": "ub/ub4.jpg"
+    },
+    {
+      "name": "UB5",
+      "diseases_signs": "Headache, dizziness and epilepsy.",
+      "location": "1 inch above the hairline on the forehead and 1.5 inches outside the middle line.",
+      "image": "ub/ub5.jpg"
+    },
+    {
+      "name": "UB6",
+      "diseases_signs": "Headache, dizziness, blocked nose and feverish diseases.",
+      "location": "2.5 inch bundle above the hairline on the forehead and 1.5 inch bundle on the outside of the middle bundle.",
+      "image": "ub/ub6.jpg"
+    },
+    {
+      "name": "UB7",
+      "diseases_signs": "Headache, dizziness, blocked nose, runny nose and other nasal problems.",
+      "location": "4 inches above the hairline on the forehead and 1.5 inches outside the middle line.",
+      "image": "ub/ub7.jpg"
+    },
+    {
+      "name": "UB8",
+      "diseases_signs": "Dizziness, blurred vision and tinnitus.",
+      "location": "5.5 inch bundle above the hairy strand on the forehead and 1.5 inch bundle on the outside from the middle strand.",
+      "image": "ub/ub8.jpg"
+    },
+    {
+      "name": "UB9",
+      "diseases_signs": "Pain in the back of the neck and head, eye pain, and a blocked nose.",
+      "location": "1-3 inches outward from the pit above the occipital protuberance.",
+      "image": "ub/ub9.jpg"
+    },
+    {
+      "name": "UB10",
+      "diseases_signs": "Stiff neck, cervix, colds leading to blocked nose and sore throat.",
+      "location": "0.5 inch lump above the middle of the back hairline and 1.3 inch lump on the outside of the middle hairline, on the nape of the neck, the large muscle of the neck.",
+      "image": "ub/ub10.jpg"
+    },
+    {
+      "name": "UB11",
+      "diseases_signs": "Cough, stiff neck, shoulder and back pain.",
+      "location": "1.5 inches outward from the nape of the first thoracic vertebra (T1).",
+      "image": "ub/ub11.jpg"
+    },
+    {
+      "name": "UB12",
+      "diseases_signs": "Cold, headache, fever, cough and neck and back pain.",
+      "location": "The tip of the second thoracic vertebra is 1.5 inches outward from the nape.",
+      "image": "ub/ub12.jpg"
+    },
+    {
+      "name": "UB13",
+      "diseases_signs": "Respiratory diseases, cough and asthma.",
+      "location": "The tip of the third thoracic vertebra, 1.5 inches outward from the nape.",
+      "image": "ub/ub13.jpg"
+    },
+    {
+      "name": "UB14",
+      "diseases_signs": "Heart pain, palpitations, bronchitis, chest pain and vomiting.",
+      "location": "1.5 inches outward from the nape of the fourth thoracic vertebra (T4).",
+      "image": "ub/ub14.jpg"
+    },
+    {
+      "name": "UB15",
+      "diseases_signs": "Heart disease, anxiety, palpitations, insomnia, excessive dreaming, and backache.",
+      "location": "Fifth thoracic vertebra, 1.5 inches outward from the nape.",
+      "image": "ub/ub15.jpg"
+    },
+    {
+      "name": "UB16",
+      "diseases_signs": "Heart pain, chest pain, fever with shivers, asthma, bloating, stomach pain and nausea.",
+      "location": "Sixth thoracic vertebra (T6) 1.5 inches outward from the nape.",
+      "image": "ub/ub16.jpg"
+    },
+    {
+      "name": "UB17",
+      "diseases_signs": "Chest heaviness, cough, asthma, stomach pain, vomiting, nausea and vomiting.",
+      "location": "The base of the seventh thoracic vertebra, 1.5 inches outwards from the nape.",
+      "image": "ub/ub17.jpg"
+    },
+    {
+      "name": "UB18",
+      "diseases_signs": "Liver diseases (such as jaundice), dizziness, headaches, eye problems, and back pain.",
+      "location": "The base of the ninth thoracic vertebra, 1.5 inches outward from the nape.",
+      "image": "ub/ub18.jpg"
+    },
+    {
+      "name": "UB19",
+      "diseases_signs": "Gallbladder diseases, stomach pain, bitter taste in mouth and back pain.",
+      "location": "The tip of the tenth thoracic vertebra, 1.5 inches outwards from the nape.",
+      "image": "ub/ub19.jpg"
+    },
+    {
+      "name": "UB20",
+      "diseases_signs": "Stomach ulcers, vomiting, diarrhea, blood deficiency, cough-asthma and dysentery.",
+      "location": "The tip of the eleventh thoracic vertebra, 1.5 inches outward from the nape.",
+      "image": "ub/ub20.jpg"
+    },
+    {
+      "name": "UB21",
+      "diseases_signs": "Stomach problems such as heaviness in the stomach, stomach pain, indigestion, nausea, vomiting and back pain.",
+      "location": "1.5 inches outwards from the nape of the 12th thoracic vertebra (T12).",
+      "image": "ub/ub21.jpg"
+    },
+    {
+      "name": "UB22",
+      "diseases_signs": "Bloating, diarrhea, retention of urine, swelling in the body, and pain or stiffness in the lower back.",
+      "location": "The first lumbar vertebra (L1) of the back, 1.5 inches outward from the nape.",
+      "image": "ub/ub22.jpg"
+    },
+    {
+      "name": "UB23",
+      "diseases_signs": "Urine problems (frequent or stopped), sexual dysfunction, impotence, ringing in the ears and chronic back pain.",
+      "location": "The second lumbar vertebra (L2) is formed on the outside side.",
+      "image": "ub/ub23.jpg"
+    },
+    {
+      "name": "UB24",
+      "diseases_signs": "Bloating, diarrhea, menstrual problems, and pain in the back when moving.",
+      "location": "The third lumbar vertebra (L3), 1.5 inches outward from the neck.",
+      "image": "ub/ub24.jpg"
+    },
+    {
+      "name": "UB25",
+      "diseases_signs": "Large bowel disease such as diarrhea, constipation, and back muscle strains or sprains.",
+      "location": "Fourth lumbar vertebra (L4) 1.5 inches outward from the nape.",
+      "image": "ub/ub25.jpg"
+    },
+    {
+      "name": "UB26",
+      "diseases_signs": "Bloating, diarrhea, pain in the lower back, and frequent or intermittent urination.",
+      "location": "Fifth lumbar vertebra (L5), 1.5 inches outward from the nape.",
+      "image": "ub/ub26.jpg"
+    },
+    {
+      "name": "UB27",
+      "diseases_signs": "Small bowel disease, stomach pain, diarrhea, bloody or painful stools, and hip joint pain.",
+      "location": "The first sacral vertebra (S1) is located 1.5 inches outward from the nape.",
+      "image": "ub/ub27.jpg"
+    },
+    {
+      "name": "UB28",
+      "diseases_signs": "Bladder disease, urinary retention, incontinence and localized pain.",
+      "location": "The second sacral vertebra (S2) is located 1.5 inches outward from the nape.",
+      "image": "ub/ub28.jpg"
+    },
+    {
+      "name": "UB29",
+      "diseases_signs": "Diarrhea, hernia or pain in the waist.",
+      "location": "1.5 inches out from the middle of the spinal cord, equivalent to the third sacral hole (S3 foramen).",
+      "image": "ub/ub29.jpg"
+    },
+    {
+      "name": "UB30",
+      "diseases_signs": "Uncontrolled bowel movements, menstrual irregularities, hernias, and pain in the lower back.",
+      "location": "1.5 inches out from the middle of the spinal cord, equivalent to the fourth sacral foramen (S4).",
+      "image": "ub/ub30.jpg"
+    },
+    {
+      "name": "UB31",
+      "diseases_signs": "Retention of urine, constipation, irregular menstruation, leukorrhagia, uterine prolapse, nocturnal emission, vaginal dryness and pain in the back while walking.",
+      "location": "At the first posterior sacral foramen, which is between the upper protuberance of the hip bone and the middle line of the spine.",
+      "image": "ub/ub31.jpg"
+    },
+    {
+      "name": "UB32",
+      "diseases_signs": "Diseases of the urinary system (such as styes, urinary retention), diseases of the genitals (infertility, premature ejaculation, irregular menstruation), local pain and pain relief during childbirth.",
+      "location": "It is located at the second posterior sacral foramen.",
+      "image": "ub/ub32.jpg"
+    },
+    {
+      "name": "UB33",
+      "diseases_signs": "Constipation, diarrhea, retention of urine, irregular menstruation, white discharge and pain in the back while walking.",
+      "location": "It is located at the third posterior sacral foramen.",
+      "image": "ub/ub33.jpg"
+    },
+    {
+      "name": "UB34",
+      "diseases_signs": "Stomach pain, constipation, retention of urine, white discharge and pain in the back while moving.",
+      "location": "It is located at the fourth posterior sacral foramen.",
+      "image": "ub/ub34.jpg"
+    },
+    {
+      "name": "UB35",
+      "diseases_signs": "Piles, diarrhea, vaginal discharge and white discharge.",
+      "location": "0.5 inches from the middle of the hip bone, near the coccyx.",
+      "image": "ub/ub35.jpg"
+    },
+    {
+      "name": "UB36",
+      "diseases_signs": "Pain in the waist, hips and thighs, and piles.",
+      "location": "Exactly in the middle of the crease (line) below the buttocks.",
+      "image": "ub/ub36.jpg"
+    },
+    {
+      "name": "UB37",
+      "diseases_signs": "Pain in the back while walking and problems in leg movements.",
+      "location": "On the back of the thigh, UB36 to 6 fingers below the knee.",
+      "image": "ub/ub37.jpg"
+    },
+    {
+      "name": "UB38",
+      "diseases_signs": "Pain or numbness in the thigh and the area behind the knee, and constipation.",
+      "location": "1 finger up from the crease behind the knee.",
+      "image": "ub/ub38.jpg"
+    },
+    {
+      "name": "UB39",
+      "diseases_signs": "Heaviness in the abdomen, retention of urine, stiffness and pain in the lower back, cramps in the feet and legs.",
+      "location": "On the outer edge of the popliteal fossa behind the knee.",
+      "image": "ub/ub39.jpg"
+    },
+    {
+      "name": "UB40",
+      "diseases_signs": "Main point of back and waist pain, cramps due to fresh fever, vomiting, diarrhea, high blood pressure and heartburn.",
+      "location": "At the midpoint of the very back crease (popliteal fossa) of the knee.",
+      "image": "ub/ub40.jpg"
+    },
+    {
+      "name": "UB41",
+      "diseases_signs": "Stiffness and pain in the shoulders, back, and neck; numbness in the elbows and hands.",
+      "location": "3 inches outwards from the second thoracic vertebra (T2).",
+      "image": "ub/ub41.jpg"
+    },
+    {
+      "name": "UB42",
+      "diseases_signs": "Bronchitis, asthma, tuberculosis; stiff neck, shoulder and back pain.",
+      "location": "Third thoracic vertebra (T3) 3 fingers outwards from the clavicle.",
+      "image": "ub/ub42.jpg"
+    },
+    {
+      "name": "UB43",
+      "diseases_signs": "Chronic bronchitis, asthma, weakness, anemia and shoulder pain.",
+      "location": "3 fingers outwards from the fourth thoracic vertebra (T4).",
+      "image": "ub/ub43.jpg"
+    },
+    {
+      "name": "UB44",
+      "diseases_signs": "Bronchitis, asthma, chest tightness; back pain and stiffness.",
+      "location": "Fifth thoracic vertebra (T5), 3 inches outward from the lumbar vertebra.",
+      "image": "ub/ub44.jpg"
+    },
+    {
+      "name": "UB45",
+      "diseases_signs": "Bronchitis, asthma; back and shoulder pain; coughing.",
+      "location": "Sixth thoracic vertebra (T6) 3 fingers outwards from the clavicle.",
+      "image": "ub/ub45.jpg"
+    },
+    {
+      "name": "UB46",
+      "diseases_signs": "Chest heaviness, belching, vomiting; back pain and stiffness.",
+      "location": "The seventh thoracic vertebra (T7) moves 3 inches outward.",
+      "image": "ub/ub46.jpg"
+    },
+    {
+      "name": "UB47",
+      "diseases_signs": "Chest and rib pain, back pain; vomiting and diarrhea.",
+      "location": "Ninth thoracic vertebra (T9) with 3 sides facing outwards.",
+      "image": "ub/ub47.jpg"
+    },
+    {
+      "name": "UB48",
+      "diseases_signs": "Stomach rumbling, stomach pain, diarrhea, jaundice and diabetes.",
+      "location": "Tenth thoracic vertebra (T10) 3 inches outwards.",
+      "image": "ub/ub48.jpg"
+    },
+    {
+      "name": "UB49",
+      "diseases_signs": "Bloating, vomiting, diarrhea and other stomach disorders.",
+      "location": "Eleventh thoracic vertebra (T11) with 3 sides facing outwards.",
+      "image": "ub/ub49.jpg"
+    },
+    {
+      "name": "UB50",
+      "diseases_signs": "Pain in the upper abdomen, bloating, indigestion in children; swelling and back pain.",
+      "location": "3-inch lumps outward from the 12th thoracic vertebra (T12).",
+      "image": "ub/ub50.jpg"
+    },
+    {
+      "name": "UB51",
+      "diseases_signs": "Pain in the upper part of the stomach, lump in the stomach, constipation and breast related diseases.",
+      "location": "Move the first lumbar vertebra (L1) 3 inches outward from the nape.",
+      "image": "ub/ub51.jpg"
+    },
+    {
+      "name": "UB52",
+      "diseases_signs": "Urine problems (less urination or swelling), impotence, premature ejaculation and strain or sprain in the waist muscles.",
+      "location": "The second lumbar vertebra (L2) should be moved to the outside.",
+      "image": "ub/ub52.jpg"
+    },
+    {
+      "name": "UB53",
+      "diseases_signs": "Rumbling in the stomach, bloating, constipation, difficulty in urination and pain and stiffness in the waist while moving.",
+      "location": "3 fingers out from the middle of the sacrum, at the level of the second foramen.",
+      "image": "ub/ub53.jpg"
+    },
+    {
+      "name": "UB54",
+      "diseases_signs": "Back and hip pain, paralysis of legs, urination problems, constipation, piles and genital swelling.",
+      "location": "3 fingers outwards from the neck, at the base of the fourth sacral vertebra (S4).",
+      "image": "ub/ub54.jpg"
+    },
+    {
+      "name": "UB55",
+      "diseases_signs": "Pain and stiffness in the back, pain in the back, numbness or weakness, hernia and abnormal bleeding from the womb.",
+      "location": "Just 2 inches below the back of the knee (Weizhong).",
+      "image": "ub/ub55.jpg"
+    },
+    {
+      "name": "UB56",
+      "diseases_signs": "Pain or strain in the waist and legs while walking and piles.",
+      "location": "Right in the middle of UB55 and UB57, between the calf muscles.",
+      "image": "ub/ub56.jpg"
+    },
+    {
+      "name": "UB57",
+      "diseases_signs": "Cramps in calf muscles, constipation, piles, waist and back pain and site pain.",
+      "location": "The midpoint of the spine between the knee and the heel, where the calf muscles attach at the bottom.",
+      "image": "ub/ub57.jpg"
+    },
+    {
+      "name": "UB58",
+      "diseases_signs": "Headache, dizziness, back and leg pain and piles.",
+      "location": "7 toe rings above the outer ankle bone (Kunlun).",
+      "image": "ub/ub58.jpg"
+    },
+    {
+      "name": "UB59",
+      "diseases_signs": "Pain in the back when walking, numbness or weakness in the legs, pain and swelling in the ankles, and headache.",
+      "location": "3 fingers above the ankle bone (Kunlun).",
+      "image": "ub/ub59.jpg"
+    },
+    {
+      "name": "UB60",
+      "diseases_signs": "Pain in the temple, delay in delivery, sciatica, paralysis and ankle joint pain or sprain.",
+      "location": "In the cavity between the outer ankle bone and the calcaneus tendon.",
+      "image": "ub/ub60.jpg"
+    },
+    {
+      "name": "UB61",
+      "diseases_signs": "Numbness or weakness in walking, pain in the ankles and epilepsy.",
+      "location": "On the outer part of the parai, just below Kunlanu (UB60), where the skin color changes (at the junction of red and white skin).",
+      "image": "ub/ub61.jpg"
+    },
+    {
+      "name": "UB62",
+      "diseases_signs": "Headaches, dizziness, mental disorders, epilepsy, insomnia, and pain in the back and legs.",
+      "location": "On the outside of the leg, in the depression below the ankle bone.",
+      "image": "ub/ub62.jpg"
+    },
+    {
+      "name": "UB63",
+      "diseases_signs": "Headache, numbness in feet, pain and swelling in ankles, epilepsy and convulsions in children.",
+      "location": "On the outside of the foot, on the front of the ankle bone, in the depression behind the protuberance of the fifth metatarsal bone.",
+      "image": "ub/ub63.jpg"
+    },
+    {
+      "name": "UB64",
+      "diseases_signs": "Headache, stiff neck, back and leg pain and epilepsy.",
+      "location": "On the outside of the foot, below and on the front of the 5th metatarsal, where the skin color changes.",
+      "image": "ub/ub64.jpg"
+    },
+    {
+      "name": "UB65",
+      "diseases_signs": "Headache, stiff neck, dizziness, back and leg pain and epilepsy.",
+      "location": "On the outside of the foot, in the depression behind and below the 5th metatarsal head.",
+      "image": "ub/ub65.jpg"
+    },
+    {
+      "name": "UB66",
+      "diseases_signs": "Headache, stiff neck, nosebleeds and epilepsy.",
+      "location": "On the outside of the ankle, in the depression in front and below the little finger joint.",
+      "image": "ub/ub66.jpg"
+    },
+    {
+      "name": "UB67",
+      "diseases_signs": "First aid for coma, correcting the position of the baby in the womb, delayed delivery and pain or numbness in the fingertips.",
+      "location": "On the outer part of the little finger, about 0.1 inch back from the corner of the nail.",
+      "image": "ub/ub67.jpg"
+    },
+    {
+      "name": "KI 1",
+      "diseases_signs": "Activation of the brain to awaken the brain, shock, high blood pressure, pain, numbness or burning in the soles and fingers of the feet.",
+      "location": "On the joints of the upper and middle one-third of the sole (excluding the toes).",
+      "image": "ki/ki1.jpg"
+    },
+    {
+      "name": "KI 2",
+      "diseases_signs": "menstruation, retention of urine, hemoptysis, diabetes, diarrhea, infantile, omphalitis, tetnus, lockjaw.",
+      "location": "In the inner part of the foot, in the depression below and in front of the navicular bone.",
+      "image": "ki/ki2.jpg"
+    },
+    {
+      "name": "KI 3",
+      "diseases_signs": "High blood pressure, dizziness, ringing in the ears, insomnia, headache, toothache, sore throat, sleep disorders, insomnia and irregular menstruation.",
+      "location": "In the cavity between the ankle bone and the Achilles tendon.",
+      "image": "ki/ki3.jpg"
+    },
+    {
+      "name": "KI 4",
+      "diseases_signs": "Dementia, retention of urine, excessive urination, constipation, irregular menstruation, asthma, backache and heel pain.",
+      "location": "Behind and below the ankle bone, on the inner side of the calcaneus.",
+      "image": "ki/ki4.jpg"
+    },
+    {
+      "name": "KI 5",
+      "diseases_signs": "Irregular menstruation, menstrual pain, menstrual stoppage, uterine contractions and difficulty in defecation.",
+      "location": "KI 3 to 1 and below the knee, on the inner side of the heel bone.",
+      "image": "ki/ki5.jpg"
+    },
+    {
+      "name": "KI 6",
+      "diseases_signs": "Irregular menstruation, white discharge, uterine contractions, urinary retention, urinary tract infection, epilepsy, sore throat and insomnia.",
+      "location": "Just below the inner ankle bone, 1 finger length away from the ankle.",
+      "image": "ki/ki6.jpg"
+    },
+    {
+      "name": "KI 7",
+      "diseases_signs": "Edema, swelling of the abdomen, diarrhea, profuse or continuous sweating without sweating, night sweats, weakness or numbness in the legs.",
+      "location": "KI 3 Bn Du Sesidha 2nd Gathueupar.",
+      "image": "ki/ki7.jpg"
+    },
+    {
+      "name": "KI 8",
+      "diseases_signs": "Irregular menstruation, excessive bleeding from the uterus, uterine prolapse, itching in the genitals, hernia, diarrhoea, constipation and dysentery.",
+      "location": "2 toes above the kl 3 and half toes above the kl 7, behind the shin bone.",
+      "image": "ki/ki8.jpg"
+    },
+    {
+      "name": "KI 9",
+      "diseases_signs": "Epilepsy, mania, hernia, vomiting and pain in the inner part of the legs.",
+      "location": "In the inner part of the forehead, Kl 3 to 5 above the knee, below the shin muscle.",
+      "image": "ki/ki9.jpg"
+    },
+    {
+      "name": "KI 10",
+      "diseases_signs": "Urine retention, urinary tract infection, vaginal dryness, nocturnal emission, excessive bleeding during menstruation and pain in the inner part of the knee.",
+      "location": "At the bend behind the knee, in the depression between the two inner scapular veins.",
+      "image": "ki/ki10.jpg"
+    },
+    {
+      "name": "KI11",
+      "diseases_signs": "Heaviness and pain in the stomach, urination problem, urination while sleeping, premature ejaculation or vaginal dryness and hernia.",
+      "location": "5 fingers below the navel and half an inch from the middle of the body, on the side.",
+      "image": "ki/ki11.jpg"
+    },
+    {
+      "name": "KI12",
+      "diseases_signs": "Premature ejaculation, impotence, problem of white discharge (leukorrhagia) in women and the uterus may slip from its place.",
+      "location": "4 fingers below the navel and half an inch from the middle of the body, on the side.",
+      "image": "ki/ki12.jpg"
+    },
+    {
+      "name": "KI13",
+      "diseases_signs": "Nervousness (as if something is running towards the flat sewer), irregular menstruation, white water problems, difficulty breathing and diarrhea.",
+      "location": "3 fingers below the navel and half an inch from the middle of the body, on the side.",
+      "image": "ki/ki13.jpg"
+    },
+    {
+      "name": "KI14",
+      "diseases_signs": "Menstrual disorders, excessive bleeding, white discharge, premature ejaculation, pain in the stomach, hernia, constipation and swelling in the body.",
+      "location": "2 fingers below the navel and half an inch from the middle of the body, on the side.",
+      "image": "ki/ki14.jpg"
+    },
+    {
+      "name": "KI15",
+      "diseases_signs": "Irregular menstruation, stomach pain, constipation and diarrhea.",
+      "location": "1 finger below the navel and half a finger from the middle of the body, on the side.",
+      "image": "ki/ki15.jpg"
+    },
+    {
+      "name": "KI16",
+      "diseases_signs": "Stomach pain, bloating, constipation, diarrhea, irregular menstruation and hernia.",
+      "location": "Right next to the navel, half a finger away from the middle point.",
+      "image": "ki/ki16.jpg"
+    },
+    {
+      "name": "KI17",
+      "diseases_signs": "Stomach pain, swelling, constipation, diarrhea and feeling of lump in the stomach.",
+      "location": "2 fingers above the navel and half an inch from the middle of the body, on the side.",
+      "image": "ki/ki17.jpg"
+    },
+    {
+      "name": "KI18",
+      "diseases_signs": "Stomach pain, vomiting, bloating, constipation and infertility.",
+      "location": "3 fingers above the navel and half an inch from the middle of the body, on the side.",
+      "image": "ki/ki18.jpg"
+    },
+    {
+      "name": "KI19",
+      "diseases_signs": "Stomach pain, bloating, constipation and other stomach diseases.",
+      "location": "4 fingers above the navel and half a finger from the middle of the body, on the side.",
+      "image": "ki/ki19.jpg"
+    },
+    {
+      "name": "KI20",
+      "diseases_signs": "Stomach pain, vomiting, bloating, digestive problems, chest pain, and palpitations.",
+      "location": "Five fingers above the navel and half an inch from the center of the body, in the armpit.",
+      "image": "ki/ki20.jpg"
+    },
+    {
+      "name": "KI21",
+      "diseases_signs": "Stomach pain, swelling of the stomach, vomiting, diarrhea and other diseases related to the stomach or intestines.",
+      "location": "6 inches above the navel and 0.5 inches from the midline, in the armpit.",
+      "image": "ki/ki21.jpg"
+    },
+    {
+      "name": "KI22",
+      "diseases_signs": "Chest pain, bronchitis (swelling in the airways), asthma, and lumps or abscesses in the breasts.",
+      "location": "In the 5th intercostal space, two fingers from the middle of the body in the armpit.",
+      "image": "ki/ki22.jpg"
+    },
+    {
+      "name": "KI23",
+      "diseases_signs": "Feeling of heaviness in the chest and below the ribs, bronchitis, asthma, breast abscess and vomiting.",
+      "location": "In the 4th intercostal space, 2 fingers to the side from the middle of the body.",
+      "image": "ki/ki23.jpg"
+    },
+    {
+      "name": "KI24",
+      "diseases_signs": "Heaviness in the chest and under the ribs, bronchitis, asthma, breast abscesses, and vomiting.",
+      "location": "In the 3rd intercostal space, two fingers from the middle of the body, in the armpit.",
+      "image": "ki/ki24.jpg"
+    },
+    {
+      "name": "KI25",
+      "diseases_signs": "Feeling of heaviness in the chest and under the ribs, bronchitis, asthma, and vomiting.",
+      "location": "In the 2nd intercostal space, two fingers from the middle of the body in the armpit.",
+      "image": "ki/ki25.jpg"
+    },
+    {
+      "name": "KI26",
+      "diseases_signs": "Heaviness in the chest and below the ribs, bronchitis, asthma and other lung-related problems.",
+      "location": "In the 1st intercostal space, 2 fingers to the side from the middle of the body.",
+      "image": "ki/ki26.jpg"
+    },
+    {
+      "name": "KI27",
+      "diseases_signs": "Bronchitis, asthma and chest pain.",
+      "location": "On the nape of the clavicle, 2 inches from the middle of the body.",
+      "image": "ki/ki27.jpg"
+    },
+    {
+      "name": "PC1",
+      "diseases_signs": "Bronchitis, asthma, chest tightness, chest pain, lung and heart diseases, swelling or lump in the breast.",
+      "location": "In the 4th intercostal space between the 4th ribs on the chest, 1 inch out from the nipple.",
+      "image": "pc/pc1.jpg"
+    },
+    {
+      "name": "PC2",
+      "diseases_signs": "Chest and heart pain, bronchitis, heaviness in the chest and ribs, pain in the back and inner part of the arms.",
+      "location": "2 inches below the end of the axillary fold, between the bicep muscles.",
+      "image": "pc/pc2.jpg"
+    },
+    {
+      "name": "PC3",
+      "diseases_signs": "Heart pain, stomach pain, vomiting, diarrhea, pain in elbow joint.",
+      "location": "At the crease of the elbow (transverse cubital crease), on the inner side of the biceps tendon.",
+      "image": "pc/pc3.jpg"
+    },
+    {
+      "name": "PC4",
+      "diseases_signs": "Chest pain, palpitations, bloody vomiting, bloody cough, boils, and epilepsy.",
+      "location": "Five fingers above the wrist crease, between two tendons in the arm.",
+      "image": "pc/pc4.jpg"
+    },
+    {
+      "name": "PC5",
+      "diseases_signs": "Heart pain, irregular heartbeat, mental disorders, epilepsy, stomach pain, vomiting and malaria.",
+      "location": "3 fingers above the wrist crease, between the two main tendons of the arm.",
+      "image": "pc/pc5.jpg"
+    },
+    {
+      "name": "PC6",
+      "diseases_signs": "Heart disease, nervousness, insomnia, epilepsy, mental disorders, blood pressure, chest pain, asthma, stomach pain, vomiting and nausea.",
+      "location": "2 fingers above the wrist crease, between two tendons in the arm.",
+      "image": "pc/pc6.jpg"
+    },
+    {
+      "name": "PC7",
+      "diseases_signs": "Heart pain, irregular heartbeat, stomach pain, vomiting, mental disorders, pain between the ribs.",
+      "location": "Right in the middle of the wrist crease, between two tendons.",
+      "image": "pc/pc7.jpg"
+    },
+    {
+      "name": "PC8",
+      "diseases_signs": "Heartburn, mental disorders, vomiting, bad breath.",
+      "location": "In the middle of the palm; where the tip of the middle finger reaches when the fist is closed.",
+      "image": "pc/pc8.jpg"
+    },
+    {
+      "name": "PC9",
+      "diseases_signs": "Fresh fever, fainting, dizziness, epileptic fits, pain and numbness in the fingers.",
+      "location": "Right in the center of the tip of the middle finger.",
+      "image": "pc/pc9.jpg"
+    },
+    {
+      "name": "TE1",
+      "diseases_signs": "Headache, redness and swelling in the eyes, deafness, ringing in the ears (tinnitus), throat problems, stiff tongue, fever and itching.",
+      "location": "About 0.1 inch from the corner of the ring finger nail, towards the little finger.",
+      "image": "te/te1.jpg"
+    },
+    {
+      "name": "TE2",
+      "diseases_signs": "Headache, redness in eyes, ringing in ears, deafness, sore throat and pain, malaria, pain in hands and arms.",
+      "location": "At the junction of the web between the ring finger and the little finger.",
+      "image": "te/te2.jpg"
+    },
+    {
+      "name": "TE3",
+      "diseases_signs": "Sore throat and pain, deafness, ringing in ears, stiff neck.",
+      "location": "On the back of the palm, in the depression between the bones of the fourth and fifth fingers (clearly visible when the fist is closed).",
+      "image": "te/te3.jpg"
+    },
+    {
+      "name": "TE4",
+      "diseases_signs": "Diabetes, Malaria, Wrist pain, Deafness.",
+      "location": "In the crease on the back of the wrist, in the depression near the tendon.",
+      "image": "te/te4.jpg"
+    },
+    {
+      "name": "TE5",
+      "diseases_signs": "Migraine (half-headache), cold and fever, swelling in the eyes, ringing in the ears, numbness in the hands and feet.",
+      "location": "Two thumbs above the back of the wrist, between the two bones of the forearm.",
+      "image": "te/te5.jpg"
+    },
+    {
+      "name": "TE6",
+      "diseases_signs": "Pain in ribs, pain in shoulders and arms, constipation, deafness, ringing in ears.",
+      "location": "3 thumbs up from the back of the wrist, between the bones.",
+      "image": "te/te6.jpg"
+    },
+    {
+      "name": "TE7",
+      "diseases_signs": "Deafness, epilepsy, muscle strain and pain in the arm.",
+      "location": "3 fingertips up from the back of the wrist, slightly to the side of the TE6 point.",
+      "image": "te/te7.jpg"
+    },
+    {
+      "name": "TE8",
+      "diseases_signs": "Deafness, sudden loss of voice, toothache, facial diseases, pain in the hands and arms.",
+      "location": "Four fingers above the back of the wrist, in the cavity between the bones.",
+      "image": "te/te8.jpg"
+    },
+    {
+      "name": "TE9",
+      "diseases_signs": "Deafness, sudden loss of voice, toothache, sore throat, pain in the hands and arms.",
+      "location": "From the upper edge of the elbow to the 5th finger below the knee, between the bones.",
+      "image": "te/te9.jpg"
+    },
+    {
+      "name": "TE10",
+      "diseases_signs": "Deafness, epilepsy, goiter, migraine, pain in the neck, shoulders, back and ribs.",
+      "location": "One finger above the humerus behind the elbow, when the elbow is bent.",
+      "image": "te/te10.jpg"
+    },
+    {
+      "name": "TE11",
+      "diseases_signs": "Headache, eye pain, pain under the ribs, pain in the shoulders and arms.",
+      "location": "With the elbow bent, this point is located 1 finger above the Tianjing (TE10).",
+      "image": "te/te11.jpg"
+    },
+    {
+      "name": "TE12",
+      "diseases_signs": "Headache, toothache, neck and back pain.",
+      "location": "On the line drawn from Jianliao (TE14) to Tianjing (TE10), 3 inches above Qinglengyuan (TE11).",
+      "image": "te/te12.jpg"
+    },
+    {
+      "name": "TE13",
+      "diseases_signs": "Goiter, pulling and pain in the upper limbs.",
+      "location": "3 inches below the Jianliao (TE14), on the neck, against the deltoid.",
+      "image": "te/te13.jpg"
+    },
+    {
+      "name": "TE14",
+      "diseases_signs": "Shoulder joint arthritis, localized pain, numbness in the upper limbs.",
+      "location": "Behind and below the shoulder, in the depression formed when the arm is fully raised to the side.",
+      "image": "te/te14.jpg"
+    },
+    {
+      "name": "TE15",
+      "diseases_signs": "Shoulder and arm pain, stiffness and pain in the neck.",
+      "location": "Near the upper corner of the scapula, at the midpoint of the line between Jianjing (GB21) and Quyuan (S113).",
+      "image": "te/te15.jpg"
+    },
+    {
+      "name": "TE16",
+      "diseases_signs": "Headache, dizziness, blurred vision, stiff neck, sudden deafness, throat pain, and swelling.",
+      "location": "Just below the mastoid process, at the level of the corner of the jaw.",
+      "image": "te/te16.jpg"
+    },
+    {
+      "name": "TE17",
+      "diseases_signs": "Ear diseases such as tinnitus, deafness, facial paralysis, swelling of the cheeks (parotitis).",
+      "location": "Behind the earlobe, in the cavity between the jaw and the bone behind the ear.",
+      "image": "te/te17.jpg"
+    },
+    {
+      "name": "TE18",
+      "diseases_signs": "Headache, tinnitus, deafness, cramps or spasms in children.",
+      "location": "On the curve behind the ear, 1/3 of the way from the bottom.",
+      "image": "te/te18.jpg"
+    },
+    {
+      "name": "TE19",
+      "diseases_signs": "Headache, tinnitus, deafness, cramps or spasms in children.",
+      "location": "On the curved line behind the ear, 1/3 of the way from the top.",
+      "image": "te/te19.jpg"
+    },
+    {
+      "name": "TE20",
+      "diseases_signs": "Headache, stiff neck, redness and swelling in the eyes, cataracts, toothache.",
+      "location": "Just above the ear, inside the hairline, at the point where the upper edge of the ear touches the ear when bent forward.",
+      "image": "te/te20.jpg"
+    },
+    {
+      "name": "TE21",
+      "diseases_signs": "Hearing loss, tinnitus, ear discharge; toothache, jaw joint (TMJ) problems.",
+      "location": "In the cavity formed in front of the ear when the mouth is opened, near the upper part of the jaw bone.",
+      "image": "te/te21.jpg"
+    },
+    {
+      "name": "TE22",
+      "diseases_signs": "Headache, tinnitus; jaw clenching (trismus), and a twisted mouth.",
+      "location": "Behind the hairline of the temple, at the root of the auricle and behind the temporal artery.",
+      "image": "te/te22.jpg"
+    },
+    {
+      "name": "TE23",
+      "diseases_signs": "Epilepsy; headache, blurred vision, redness, swelling and pain in the eyes, twitching of the eyelids; toothache.",
+      "location": "At the outer edge of the eyebrow, in the depression of the bone.",
+      "image": "te/te23.jpg"
+    },
+    {
+      "name": "GB1",
+      "diseases_signs": "Headache, redness in the eyes, pain, swelling and cataracts.",
+      "location": "In the axillary depression, about 0.5 inches from the outer corner of the eye.",
+      "image": "gb/gb1.jpg"
+    },
+    {
+      "name": "GB2",
+      "diseases_signs": "Deafness, tinnitus, ear discharge, toothache, and crooked eyes and mouth.",
+      "location": "In the cavity in front of the ear when you open your mouth.",
+      "image": "gb/gb2.jpg"
+    },
+    {
+      "name": "GB3",
+      "diseases_signs": "Ringing in the ears, deafness, earwax, toothache, face pain, crookedness of the mouth and eyes, locking of the jaw.",
+      "location": "In a small depression just above the nape of the ear, the zygomatic arch.",
+      "image": "gb/gb3.jpg"
+    },
+    {
+      "name": "GB4",
+      "diseases_signs": "Migraine (half head pain), dizziness, epilepsy, ringing in the ears, pain in the outer corner of the eye and toothache.",
+      "location": "On the temple, at the junction of the upper 1/4 and lower 3/4 of the distance between ST8 and GB7.",
+      "image": "gb/gb4.jpg"
+    },
+    {
+      "name": "GB5",
+      "diseases_signs": "Migraine, redness in the eyes, pain and swelling, toothache.",
+      "location": "Inside the temple, exactly between ST8 and GB7.",
+      "image": "gb/gb5.jpg"
+    },
+    {
+      "name": "GB6",
+      "diseases_signs": "Migraine, redness in the eyes, pain and swelling, ringing in the ears.",
+      "location": "On the temple, at the junction of the upper 3/4 and lower 1/4 of the distance between ST8 and GB7.",
+      "image": "gb/gb6.jpg"
+    },
+    {
+      "name": "GB7",
+      "diseases_signs": "Headaches, toothaches, jaw locking, swelling of the cheeks, and other facial problems.",
+      "location": "On the temple, at the apex of the ear and slightly above it.",
+      "image": "gb/gb7.jpg"
+    },
+    {
+      "name": "GB8",
+      "diseases_signs": "Headache, dizziness, problems caused by fear in children.",
+      "location": "On the temple, in a small depression just 1.5 inches above the upper edge of the earlobe.",
+      "image": "gb/gb8.jpg"
+    },
+    {
+      "name": "GB9",
+      "diseases_signs": "Headache, epilepsy, swelling of the gums.",
+      "location": "2 inches in from the hairline, just above the tip of the earlobe.",
+      "image": "gb/gb9.jpg"
+    },
+    {
+      "name": "GB10",
+      "diseases_signs": "Headaches, ringing in the ears, deafness, toothaches, facial diseases, and goiter.",
+      "location": "Above and behind the mastoid process.",
+      "image": "gb/gb10.jpg"
+    },
+    {
+      "name": "GB11",
+      "diseases_signs": "Headache, dizziness, pain and stiffness in the neck and back of the neck, tinnitus, deafness.",
+      "location": "Behind the ear, in the depression of the lower one-third of the high part on a curved line parallel to the earlobe.",
+      "image": "gb/gb11.jpg"
+    },
+    {
+      "name": "GB12",
+      "diseases_signs": "Epilepsy, headache, neck pain and stiffness, throat pain and swelling, swelling in the cheeks, toothache, crooked mouth.",
+      "location": "In the depression behind and below the mastoid process.",
+      "image": "gb/gb12.jpg"
+    },
+    {
+      "name": "GB13",
+      "diseases_signs": "Epilepsy, convulsions in children, stroke, headache, dizziness.",
+      "location": "On the side of the forehead, 0.5 inches inward from the front hairline.",
+      "image": "gb/gb13.jpg"
+    },
+    {
+      "name": "GB14",
+      "diseases_signs": "Headache, eye pain, blurred vision, twitching of eyelids.",
+      "location": "On the forehead, just 1 finger above the middle of the eyebrow, in the straight line of the petal.",
+      "image": "gb/gb14.jpg"
+    },
+    {
+      "name": "GB15",
+      "diseases_signs": "Headache, eye pain, dizziness, watery eyes, blurred vision, blocked nose, cramps in children.",
+      "location": "On the forehead, 0.5 inches from the front hairline, directly above GB14.",
+      "image": "gb/gb15.jpg"
+    },
+    {
+      "name": "GB16",
+      "diseases_signs": "Headache, eye pain, dizziness, far sight, myopia, convulsions in children.",
+      "location": "1.5 inches above the front hairline and 2.25 inches to the side from the middle hairline.",
+      "image": "gb/gb16.jpg"
+    },
+    {
+      "name": "GB17",
+      "diseases_signs": "Headache, dizziness and other diseases related to eyes and head.",
+      "location": "2.5 inches above the front hairline and 2.25 inches to the side from the middle hairline.",
+      "image": "gb/gb17.jpg"
+    },
+    {
+      "name": "GB18",
+      "diseases_signs": "Headache, dizziness, eye pain, blocked nose, runny nose.",
+      "location": "4 inches above the front hairline and 2.25 inches from the middle hairline on the side.",
+      "image": "gb/gb18.jpg"
+    },
+    {
+      "name": "GB19",
+      "diseases_signs": "Fevering disease, headache, neck pain and stiffness, dizziness, redness and swelling of eyes, pain in nose, deafness, palpitations, epilepsy.",
+      "location": "On the back of the head, above the sacral bone, 2.25 inches from the outer bulge, to the side.",
+      "image": "gb/gb19.jpg"
+    },
+    {
+      "name": "GB20",
+      "diseases_signs": "fainting, headache, insomnia (sleeplessness), head and face diseases, cold, fever, reducing high blood pressure, facial paralysis, neck stiffness.",
+      "location": "In the back of the neck, just below the scapula, in the depression between two large neck muscles.",
+      "image": "gb/gb20.jpg"
+    },
+    {
+      "name": "GB21",
+      "diseases_signs": "Neck, shoulder, and back pain; reducing high blood pressure; decreased lactation or breast swelling; delayed labor (pregnancy).",
+      "location": "Right between the bottom of the neck (Dazhui) and the acromion of the shoulder, at the highest point of the shoulder.",
+      "image": "gb/gb21.jpg"
+    },
+    {
+      "name": "GB22",
+      "diseases_signs": "Chest heaviness; pain under the ribs; arm pain; armpit swelling; shoulder and back pain.",
+      "location": "Three fingers below the armpit, in the 4th intercostal space between the 4th and 5th ribs.",
+      "image": "gb/gb22.jpg"
+    },
+    {
+      "name": "GB23",
+      "diseases_signs": "Chest heaviness; asthma; vomiting and acidity; pain under the ribs and swelling in the side.",
+      "location": "From GB22 to the 1st toe forward, moving towards the chest, in the space between the 4th rib.",
+      "image": "gb/gb23.jpg"
+    },
+    {
+      "name": "GB24",
+      "diseases_signs": "Jaundice; pain below the ribs; vomiting, acidity, and nausea.",
+      "location": "Below the nipples, in the space between the seventh ribs, 4 inches outward from the midline of the body.",
+      "image": "gb/gb24.jpg"
+    },
+    {
+      "name": "GB25",
+      "diseases_signs": "Difficulty urinating; swelling; flatulence and diarrhea; back pain and rib pain.",
+      "location": "Just below the ribs, just behind the 12th rib.",
+      "image": "gb/gb25.jpg"
+    },
+    {
+      "name": "GB26",
+      "diseases_signs": "Irregular periods; Leucorrhea; Hernia; Back and rib pain.",
+      "location": "Right next to the 11th rib, in line with the umbilicus.",
+      "image": "gb/gb26.jpg"
+    },
+    {
+      "name": "GB27",
+      "diseases_signs": "Irregular menstrual periods; prolapse of the uterus; hernia; back and abdominal pain.",
+      "location": "In the lower part of the abdomen, near the protruding part of the hip bone (ASIS), 3 inches below the navel.",
+      "image": "gb/gb27.jpg"
+    },
+    {
+      "name": "GB28",
+      "diseases_signs": "Irregular menstruation; prolapse of the uterus; hernia; back and abdominal pain.",
+      "location": "0.5 inches forward and downward from point GB27.",
+      "image": "gb/gb28.jpg"
+    },
+    {
+      "name": "GB29",
+      "diseases_signs": "Back and leg pain; hip bone pain; muscle and nerve pain.",
+      "location": "Exactly midway between the hip bone (ASIS) and the greater trochanter of the thigh bone.",
+      "image": "gb/gb29.jpg"
+    },
+    {
+      "name": "GB30",
+      "diseases_signs": "Sciatica pain; weakness or paralysis in the legs; pain in the hip and thigh bones.",
+      "location": "On the back of the hip, on the outer side of the thigh bone, between the protruding edge of the thigh bone and the lower part of the spine.",
+      "image": "gb/gb30.jpg"
+    },
+    {
+      "name": "GB31",
+      "diseases_signs": "Pain in the limbs, paraplegia, and itching of the skin.",
+      "location": "In the middle of the outer thigh, 7 fingertips above the crease behind the knee.",
+      "image": "gb/gb31.jpg"
+    },
+    {
+      "name": "GB32",
+      "diseases_signs": "Muscle weakness and paralysis of the non-moving limbs.",
+      "location": "On the outer thigh, just 2 inches below the GB31 point (or 5 inches above the crease behind the thigh).",
+      "image": "gb/gb32.jpg"
+    },
+    {
+      "name": "GB33",
+      "diseases_signs": "Pain and stiffness in the knee, paralysis of the leg.",
+      "location": "On the outside of the knee, three fingers above the GB34 point, in the depression above the lateral epicondyle of the thigh bone.",
+      "image": "gb/gb33.jpg"
+    },
+    {
+      "name": "GB34",
+      "diseases_signs": "Hepatitis, Gallbladder stones, Migraine, Pain in the ribs when moving, and Stomach pain.",
+      "location": "On the outside of the leg, in the depression near the head of the fibula, the small bone below the knee.",
+      "image": "gb/gb34.jpg"
+    },
+    {
+      "name": "GB35",
+      "diseases_signs": "Epilepsy, seizures, heaviness in the chest, and weakness of the legs.",
+      "location": "On the outside of the ankle (lateral malleolus) just above the 7th toe, behind the fibula.",
+      "image": "gb/gb35.jpg"
+    },
+    {
+      "name": "GB36",
+      "diseases_signs": "Epilepsy, chest and rib pain, and leg muscle weakness.",
+      "location": "7 toes above the outside of the ankle, on the front of the fibula.",
+      "image": "gb/gb36.jpg"
+    },
+    {
+      "name": "GB37",
+      "diseases_signs": "Dim vision, night blindness, weak eyes, migraines, and paralysis of the legs.",
+      "location": "Five toe joints above the tip of the outer ankle, on the front of the fibula.",
+      "image": "gb/gb37.jpg"
+    },
+    {
+      "name": "GB38",
+      "diseases_signs": "Migraine, gout, swelling in the axilla, and weakness of the legs.",
+      "location": "4 toe-toe above the outer protrusion of the ankle, on the next side of the fibula.",
+      "image": "gb/gb38.jpg"
+    },
+    {
+      "name": "GB39",
+      "diseases_signs": "Leg pain, paralysis, neck stiffness, and ankle joint pain.",
+      "location": "3 finger bones up from the tip of the outer protrusion of the ankle, on the next side of the small bone (fibula).",
+      "image": "gb/gb39.jpg"
+    },
+    {
+      "name": "GB40",
+      "diseases_signs": "Gallbladder problems, paralysis of the legs, and ankle sprains or sprains.",
+      "location": "In the depression below and in front of the outer protrusion of the ankle.",
+      "image": "gb/gb40.jpg"
+    },
+    {
+      "name": "GB41",
+      "diseases_signs": "Migraine (half-headache), pain in the outer corners of the eyes, pain in the area below the ribs, pain in the upper part of the legs (dorsum), irregular menstruation, swelling or pain in the breasts (mastitis), and swelling of the glands (scrofula).",
+      "location": "On the upper part of the foot, in the depression near the meeting point of the fourth and fifth metatarsals.",
+      "image": "gb/gb41.jpg"
+    },
+    {
+      "name": "GB42",
+      "diseases_signs": "Headaches, pain in the outer corners of the eyes, pain under the ribs, pain in the upper legs, deafness, tinnitus, and sudden swelling of the breasts.",
+      "location": "Between the fourth and fifth toe bones, behind the joint of the fourth finger.",
+      "image": "gb/gb42.jpg"
+    },
+    {
+      "name": "GB43",
+      "diseases_signs": "Palpitations, headaches, dizziness, swelling in the cheeks, ringing in the ears or deafness, redness and pain in the eyes, pain under the ribs, pain in the groin and thigh, and ulcers.",
+      "location": "Slightly behind the web between the fourth and fifth toes, where the upper and lower skin of the foot meet.",
+      "image": "gb/gb43.jpg"
+    },
+    {
+      "name": "GB44",
+      "diseases_signs": "Headache, swelling and redness in the eyes, ear problems (deafness/tinnitus), sore throat, chest and rib pain, and upper leg pain.",
+      "location": "About 0.1 inch from the outer corner of the fourth finger nail (towards the little finger).",
+      "image": "gb/gb44.jpg"
+    },
+    {
+      "name": "LR 1",
+      "diseases_signs": "Hernia, pain in the stomach when moving, wetting of the rectum, retention of urine or blood in it, irregular menstruation, epilepsy and fainting.",
+      "location": "Slightly behind the outer corner of the ankle (about 0.1 inch away).",
+      "image": "lr/lr1.jpg"
+    },
+    {
+      "name": "LR 2",
+      "diseases_signs": "Headache, dizziness, redness and pain in the eyes, epilepsy, irregular menstruation, urinary problems and chest or rib pain.",
+      "location": "Just above the membrane between the thumb and the second finger.",
+      "image": "lr/lr2.jpg"
+    },
+    {
+      "name": "LR 3",
+      "diseases_signs": "Hepatitis, gallstones, high blood pressure, headache, epilepsy, absence of menstruation and eye problems.",
+      "location": "On the upper part of the foot, in the depression formed near the meeting point of the thumb and second finger bones.",
+      "image": "lr/lr3.jpg"
+    },
+    {
+      "name": "LR 4",
+      "diseases_signs": "Hernia, stiffness in the bowels, pain in the back when walking, flat pain, and ankle swelling.",
+      "location": "On the front of the ankle, in the cavity near the medial malleolus.",
+      "image": "lr/lr4.jpg"
+    },
+    {
+      "name": "LR 5",
+      "diseases_signs": "Irregular menstruation, uterine prolapse, itching in the genitals, problems with urination, and pain or swelling in the testicles.",
+      "location": "Two to five fingers above the innermost bone of the ankle, on the nape of the tibia.",
+      "image": "lr/lr5.jpg"
+    },
+    {
+      "name": "LR 6 ",
+      "diseases_signs": "Hernia, abdominal pain, excessive menstrual bleeding and diarrhea.",
+      "location": "7 toes above the inner ankle bone, just behind the ankle bone.",
+      "image": "lr/lr6 .jpg"
+    },
+    {
+      "name": "LR 7",
+      "diseases_signs": "Knee and patella pain, pain or numbness on the outside of the foot.",
+      "location": "In the cavity behind the medial condyle below the knee.",
+      "image": "lr/lr7.jpg"
+    },
+    {
+      "name": "LR 8",
+      "diseases_signs": "Menstrual problems, uterine prolapse, genital itching, nipple dryness, hernia and knee pain.",
+      "location": "The cavity formed on the inside when the knee is bent, in the hollow between the bones.",
+      "image": "lr/lr8.jpg"
+    },
+    {
+      "name": "LR 9",
+      "diseases_signs": "Irregular menstruation, urinary problems, back pain and abdominal pain.",
+      "location": "4 fingers above the upper edge of the kneecap, between the thigh muscles.",
+      "image": "lr/lr9.jpg"
+    },
+    {
+      "name": "LR 10",
+      "diseases_signs": "Pain in the abdomen when moving, difficulty urinating, swelling in the testicles and uterine problems.",
+      "location": "Near the groin, 3 fingers below the ST30 point.",
+      "image": "lr/lr10.jpg"
+    },
+    {
+      "name": "LR11",
+      "diseases_signs": "Irregular menstruation, problem of white discharge (leucorrhea) and pain in the stomach.",
+      "location": "At the root of the thigh, below the pubic bone and on the outside of the adductor longus muscle, 2 inches below the ST30 point.",
+      "image": "lr/lr11.jpg"
+    },
+    {
+      "name": "LR12",
+      "diseases_signs": "Pain in the abdomen, hernia, and possible prolapse of the uterus.",
+      "location": "In the groin crease, where the femoral artery is felt, 2.5 inches from the middle of the body, on the side.",
+      "image": "lr/lr12.jpg"
+    },
+    {
+      "name": "LR13",
+      "diseases_signs": "Hepatitis (liver inflammation), enteritis, indigestion, and rib pain.",
+      "location": "Just below the last spine of the 11th floating rib.",
+      "image": "lr/lr13.jpg"
+    },
+    {
+      "name": "LR14",
+      "diseases_signs": "Neuralgia between the ribs and the clavicle is typical for diseases of the liver and gallbladder.",
+      "location": "Below the apple of the chest, in the space between the sixth rib.",
+      "image": "lr/lr14.jpg"
+    },
+    {
+      "name": "CV1",
+      "diseases_signs": "suffocation due to drowning, stupor, epilepsy, insanity; urinary problems, testicle or vaginal pain, uterine prolapse, hemorrhoids; Semen defects and irregular menstruation.",
+      "location": "Located exactly in the middle of the anus and genitals (testicles in men and vagina in women).",
+      "image": "cv/cv1.jpg"
+    },
+    {
+      "name": "CV2",
+      "diseases_signs": "Urinary obstruction or urinary incontinence; semen defects, npan su kata, itching in genitals; Irregular menstruation and white water (leucorrhea).",
+      "location": "Right in the middle of the patella, in the middle of the upper nape of the pubic bone.",
+      "image": "cv/cv2.jpg"
+    },
+    {
+      "name": "CV3",
+      "diseases_signs": "Retention or frequent urination; seminal disorders, impotency, infertility and other male diseases; irregular menstruation and painful menstruation.",
+      "location": "In the middle of the stomach, 4 inches below the navel.",
+      "image": "cv/cv3.jpg"
+    },
+    {
+      "name": "CV4",
+      "diseases_signs": "Weakness and fatigue, paralysis (wind-stroke); diarrhea, dysentery, bloody stools; persistent or frequent urination; impotence, premature ejaculation; serious menstrual problems and postpartum discomfort.",
+      "location": "In the middle of the stomach, 3 inches below the navel.",
+      "image": "cv/cv4.jpg"
+    },
+    {
+      "name": "CV5",
+      "diseases_signs": "Bloating, diarrhea, dysentery, pain near the navel, hernia or; swelling, urination problems; seminal disorders and impotence; absence of menstruation or excessive flow.",
+      "location": "In the middle of the stomach, 2 inches below the navel.",
+      "image": "cv/cv5.jpg"
+    },
+    {
+      "name": "CV6",
+      "diseases_signs": "Extreme weakness of the body or weakness of the limbs; pain near the navel, diarrhoea, constipation, intestinal diseases; urination problems, nocturnal emission, vaginal dryness, hernia or urethra; uterine prolapse and post-natal problems.",
+      "location": "In the middle of the back, 1.5 inches below the navel.",
+      "image": "cv/cv6.jpg"
+    },
+    {
+      "name": "CV7",
+      "diseases_signs": "stomach pain, hernia; swelling in the body, urination problem; irregular menstruation, vaginal discharge and white discharge problem.",
+      "location": "In the middle of the stomach, 1 inch below the navel.",
+      "image": "cv/cv7.jpg"
+    },
+    {
+      "name": "CV8",
+      "diseases_signs": "Sudden loss of consciousness (coma); abdominal pain, bloating, diarrhea, dysentery, prolapse of the intestines; swelling and urination problems.",
+      "location": "Exactly the center of the navel.",
+      "image": "cv/cv8.jpg"
+    },
+    {
+      "name": "CV9",
+      "diseases_signs": "Flu retention (swelling), problems with urination; stomach pain, diarrhea, vomiting, stomach and intestinal diseases.",
+      "location": "In the middle of the stomach, one inch above the navel.",
+      "image": "cv/cv9.jpg"
+    },
+    {
+      "name": "CV10",
+      "diseases_signs": "stomach pain, bloating, diarrhea, vomiting, malnutrition in children; body stiffness.",
+      "location": "In the middle of the stomach, 2 inches above the navel.",
+      "image": "cv/cv10.jpg"
+    },
+    {
+      "name": "CV 11",
+      "diseases_signs": "Stomach pain, vomiting, loss of appetite, swelling of the stomach and other problems of the spleen and stomach, swelling in the body (edema).",
+      "location": "On the middle part of the waist, 3 inches above the navel.",
+      "image": "cv/cv11.jpg"
+    },
+    {
+      "name": "CV 12",
+      "diseases_signs": "Stomach pain, bloating, loss of appetite, vomiting, sour belching, nausea, malnutrition and indigestion in children, jaundice, mental agitation.",
+      "location": "On the middle part of the waist, 4 fingers above the navel.",
+      "image": "cv/cv12.jpg"
+    },
+    {
+      "name": "CV 13",
+      "diseases_signs": "Stomach pain, vomiting, nausea, swelling of the stomach, epilepsy.",
+      "location": "On the middle part of the waist, 5 inches above the navel.",
+      "image": "cv/cv13.jpg"
+    },
+    {
+      "name": "CV 14",
+      "diseases_signs": "Epilepsy and insanity, chest pain, nervousness, vomiting, sour belching.",
+      "location": "On the middle part of the waist, 6 fingers above the navel.",
+      "image": "cv/cv14.jpg"
+    },
+    {
+      "name": "CV 15",
+      "diseases_signs": "Epilepsy and insanity, chest pain, swelling of the stomach, dizziness.",
+      "location": "On the middle line of the spine, 1 inch below the xiphoid process.",
+      "image": "cv/cv15.jpg"
+    },
+    {
+      "name": "CV 16",
+      "diseases_signs": "Feeling of heaviness in the chest and abdomen, difficulty in swallowing, vomiting, pain around the heart, feeling of something stuck in the throat.",
+      "location": "On the front middle of the body, at the very innocuous joint of the breastbone.",
+      "image": "cv/cv16.jpg"
+    },
+    {
+      "name": "CV 17",
+      "diseases_signs": "Cough, difficulty in breathing, heaviness in the chest, pain around the heart, difficulty in swallowing, nausea, lack of milk, swelling or lump in the breasts.",
+      "location": "In the middle of the breastbone, right between the nipples.",
+      "image": "cv/cv17.jpg"
+    },
+    {
+      "name": "CV 18",
+      "diseases_signs": "Bronchitis, Asthma, Heaviness in chest, Chest pain, Pain and swelling in breasts, Vomiting.",
+      "location": "On the front middle of the body, at the level of the third intercostal space.",
+      "image": "cv/cv18.jpg"
+    },
+    {
+      "name": "CV 19",
+      "diseases_signs": "Bronchitis, Asthma, Chest pain.",
+      "location": "On the front middle of the body, at the level of the second intercostal space.",
+      "image": "cv/cv19.jpg"
+    },
+    {
+      "name": "CV 20",
+      "diseases_signs": "Bronchitis, Asthma, Chest pain.",
+      "location": "On the front middle of the body, at the level between the first ribs.",
+      "image": "cv/cv20.jpg"
+    },
+    {
+      "name": "CV21",
+      "diseases_signs": "Bronchitis, asthma, chest pain, sore throat and indigestion.",
+      "location": "In the middle of the upper part of the sternum, 1 inch below the Tiantu (CV22).",
+      "image": "cv/cv21.jpg"
+    },
+    {
+      "name": "CV22",
+      "diseases_signs": "Cough, asthma, chest pain, sore throat, sudden loss of voice (aphonia), goiter and difficulty in swallowing.",
+      "location": "In the lower part of the neck, in the center of the depression between the clavicles.",
+      "image": "cv/cv22.jpg"
+    },
+    {
+      "name": "CV23",
+      "diseases_signs": "Problem in speaking after paralysis, loss of voice, difficulty in swallowing, numbness of tongue or drooling, pain in tongue and ulcers in the mouth.",
+      "location": "In the middle of the front part of the neck, in the depression of the upper side of the hyoid bone.",
+      "image": "cv/cv23.jpg"
+    },
+    {
+      "name": "CV24",
+      "diseases_signs": "Sagging of the face, gingivitis, drooling, loss of voice and mental agitation.",
+      "location": "Just above the chin, in the center of the depression between the lips and chin.",
+      "image": "cv/cv24.jpg"
+    },
+    {
+      "name": "GV1",
+      "diseases_signs": "Diarrhea, dysentery, blood in stool, constipation, piles, proctoptosis, epilepsy, mania, and pain in the back when moving.",
+      "location": "On the middle line of the back half of the body, just below the coccyx, the lowest part of the spine.",
+      "image": "gv/gv1.jpg"
+    },
+    {
+      "name": "GV2",
+      "diseases_signs": "Diarrhoea, constipation, piles, irregular menstruation, pain or stiffness in the waist and spine, numbness in the legs and epilepsy.",
+      "location": "In the sacral region, on the sacral hiatus, a small depression just above the hip joint.",
+      "image": "gv/gv2.jpg"
+    },
+    {
+      "name": "GV3",
+      "diseases_signs": "Pain in the waist and leg bones, paraplegia, irregular menstruation, leukorrhea, impotence and other male diseases.",
+      "location": "In the center of the lower back, in the depression below the fourth lumbar vertebra (L4).",
+      "image": "gv/gv3.jpg"
+    },
+    {
+      "name": "GV4",
+      "diseases_signs": "Back pain and stiffness, paralysis, irregular menstruation, impotence, infertility, frequent urination and cold pain in the stomach.",
+      "location": "In the center of the lower back, in the depression below the second lumbar vertebra (L2).",
+      "image": "gv/gv4.jpg"
+    },
+    {
+      "name": "GV5",
+      "diseases_signs": "Pain and stiffness in the waist and spine, stomach pain, bloating, indigestion, diarrhea, and dysentery.",
+      "location": "In the middle of the lower back, in the depression below the first lumbar vertebra (L1).",
+      "image": "gv/gv5.jpg"
+    },
+    {
+      "name": "GV6",
+      "diseases_signs": "Epilepsy, jaundice, diarrhea, hemorrhoids, pain and stiffness in the waist and spine, and malnutrition in children.",
+      "location": "In the middle of the back, in the depression below the 11th thoracic vertebra (T11).",
+      "image": "gv/gv6.jpg"
+    },
+    {
+      "name": "GV7",
+      "diseases_signs": "Jaundice, vomiting, feeling of fullness in the stomach, stomach pain, loss of appetite, and back and waist pain.",
+      "location": "In the middle of the back, in the depression below the 10th thoracic vertebra (T10 vertebra).",
+      "image": "gv/gv7.jpg"
+    },
+    {
+      "name": "GV8",
+      "diseases_signs": "Epilepsy, mania, convulsions, stiff back, abdominal pain, and jaundice.",
+      "location": "In the middle of the back, in the depression below the 9th thoracic vertebra (T9 vertebra).",
+      "image": "gv/gv8.jpg"
+    },
+    {
+      "name": "GV9",
+      "diseases_signs": "Jaundice, heaviness in the chest and below the ribs, bronchitis, asthma, pain and stiffness in the waist and back.",
+      "location": "In the middle of the back, in the depression below the 7th thoracic vertebra (T7 vertebra).",
+      "image": "gv/gv9.jpg"
+    },
+    {
+      "name": "GV10",
+      "diseases_signs": "Bronchitis, asthma, neck pain and stiffness, and furuncles.",
+      "location": "In the middle of the back, in the depression below the 6th thoracic vertebra (T6 vertebra).",
+      "image": "gv/gv10.jpg"
+    },
+    {
+      "name": "GV11",
+      "diseases_signs": "Chest pain, anxiety, sleeplessness, memory loss, speech impairment (aphasia), epilepsy, bronchitis, asthma, spinal stiffness, shoulder and back pain.",
+      "location": "Middle of the back, in the depression below the bony protuberance of the fifth thoracic vertebra (T5).",
+      "image": "gv/gv11.jpg"
+    },
+    {
+      "name": "GV12",
+      "diseases_signs": "Fever, headache, cough, difficulty in breathing, seizures, fainting, epilepsy, mental illness, back pain and stiffness, swelling in neck and back muscles.",
+      "location": "In the middle of the upper back, in the depression below the bony prominence of the third thoracic vertebra (T3).",
+      "image": "gv/gv12.jpg"
+    },
+    {
+      "name": "GV13",
+      "diseases_signs": "Infectious diseases (such as malaria), fever and chills, bronchitis, asthma, epilepsy, mania, back stiffness.",
+      "location": "In the middle of the lower back, in the depression below the bony protuberance of the first thoracic vertebra (T1).",
+      "image": "gv/gv13.jpg"
+    },
+    {
+      "name": "GV14",
+      "diseases_signs": "Fever, malaria, cough, shortness of breath, epilepsy, stiff neck, spinal pain, hives or nausea.",
+      "location": "In the middle of the base of the neck, in the depression below the bony prominence of the seventh cervical vertebra (C7).",
+      "image": "gv/gv14.jpg"
+    },
+    {
+      "name": "GV15",
+      "diseases_signs": "Sudden loss of voice, difficulty in speaking after paralysis, mental illnesses, epilepsy, headache, stiff neck.",
+      "location": "In the middle of the back of the neck, about 0.5 inches below the occipital protuberance.",
+      "image": "gv/gv15.jpg"
+    },
+    {
+      "name": "GV16",
+      "diseases_signs": "Paralysis, epilepsy, mental illness, headache, dizziness, stiff neck, sore throat, nosebleeds.",
+      "location": "In the middle of the back of the neck, one finger above the hairline at the back, just below the protruding bone of the skull.",
+      "image": "gv/gv16.jpg"
+    },
+    {
+      "name": "GV17",
+      "diseases_signs": "Dizziness, stiff neck, loss of voice, epilepsy.",
+      "location": "Back of head, 2.5 inches above the back hairline (or 1.5 inches above GV16).",
+      "image": "gv/gv17.jpg"
+    },
+    {
+      "name": "GV18",
+      "diseases_signs": "Headache, dizziness, stiff neck, epilepsy.",
+      "location": "Back of head, 4 inches above the back hairline (or 1.5 inches above GV17).",
+      "image": "gv/gv18.jpg"
+    },
+    {
+      "name": "GV19",
+      "diseases_signs": "Dizziness, headache, epilepsy.",
+      "location": "Sir Kpi Chhalehi Sseme, GV18 to 1.5 an above Gathueup (or Sir Kekendra Bin Du GV20 to 1.5 Am Gathupiche).",
+      "image": "gv/gv19.jpg"
+    },
+    {
+      "name": "GV20",
+      "diseases_signs": "memory loss, paralysis, insomnia, epilepsy, mental illness, headache, dizziness, tinnitus, loss of limbs (e.g. prolapse).",
+      "location": "At the very top center (top) of the head, 5 inches behind the forehead hairline and 7 inches above the back hairline.",
+      "image": "gv/gv20.jpg"
+    },
+    {
+      "name": "GV21",
+      "diseases_signs": "Dizziness, headache, runny nose (thick discharge) and epilepsy.",
+      "location": "At the very top of the head, 3.5 inches behind the middle of the front hairline.",
+      "image": "gv/gv21.jpg"
+    },
+    {
+      "name": "GV22",
+      "diseases_signs": "Dizziness, headache, runny nose and epilepsy.",
+      "location": "2 inches back from the center of the front hairline.",
+      "image": "gv/gv22.jpg"
+    },
+    {
+      "name": "GV23",
+      "diseases_signs": "Headache, eye pain, runny nose, nosebleeds, facial flushing, and epilepsy.",
+      "location": "One toe behind the middle of the front hairline.",
+      "image": "gv/gv23.jpg"
+    },
+    {
+      "name": "GV24",
+      "diseases_signs": "Epilepsy, insomnia, anxiety, headache, dizziness, and swelling of the eyes.",
+      "location": "0.5 inches behind the center of the front hairline.",
+      "image": "gv/gv24.jpg"
+    },
+    {
+      "name": "GV25",
+      "diseases_signs": "Coma, shock, difficulty breathing, runny nose, and nasal discharge.",
+      "location": "At the very tip of the nose.",
+      "image": "gv/gv25.jpg"
+    },
+    {
+      "name": "GV26",
+      "diseases_signs": "Fainting, sunstroke, epilepsy, mental illness, facial swelling, and severe back pain.",
+      "location": "In the philtrum between the nose and upper lip, on the uppermost one-third of the upper lip.",
+      "image": "gv/gv26.jpg"
+    },
+    {
+      "name": "GV27",
+      "diseases_signs": "Fainting, epilepsy, bleeding from gums, crooked mouth and toothache.",
+      "location": "Right at the tip of the upper lip, right in the middle, where the skin and lips meet.",
+      "image": "gv/gv27.jpg"
+    },
+    {
+      "name": "GV28",
+      "diseases_signs": "Bleeding gums, facial swelling, toothache, mouth ulcers, and epilepsy.",
+      "location": "Inside the mouth, on the frenulum, the muscle between the upper lip and the gum joint.",
+      "image": "gv/gv28.jpg"
+    }
+  ]
+}
