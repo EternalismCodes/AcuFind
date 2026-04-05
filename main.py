@@ -6,7 +6,6 @@ import os
 
 app = FastAPI()
 
-
 # Allow frontend access
 app.add_middleware(
     CORSMiddleware,
@@ -16,13 +15,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 # Serve images
 app.mount("/images", StaticFiles(directory="images"), name="images")
 
-
 DATA_DIR = "data"
-
 
 # ---------- Helper Functions ----------
 
@@ -30,24 +26,23 @@ def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-
 def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-
 def get_version():
     return load_json(os.path.join(DATA_DIR, "version.json"))
-
 
 def update_version(key):
     version_path = os.path.join(DATA_DIR, "version.json")
     version_data = load_json(version_path)
 
-    version_data[key] += 1
+    if key not in version_data:
+        version_data[key] = 1
+    else:
+        version_data[key] += 1
 
     save_json(version_path, version_data)
-
 
 # ---------- ROOT ----------
 
@@ -55,13 +50,11 @@ def update_version(key):
 def root():
     return {"status": "AcuFind backend running"}
 
-
-# ---------- VERSION API (for cache checking) ----------
+# ---------- VERSION API ----------
 
 @app.get("/version")
 def version():
     return get_version()
-
 
 # ---------- DATA APIs ----------
 
@@ -69,16 +62,13 @@ def version():
 def get_points():
     return load_json(os.path.join(DATA_DIR, "points.json"))
 
-
 @app.get("/courses")
 def get_courses():
     return load_json(os.path.join(DATA_DIR, "courses.json"))
 
-
 @app.get("/eav")
 def get_eav():
     return load_json(os.path.join(DATA_DIR, "eav.json"))
-
 
 # ---------- ADMIN UPDATE APIs ----------
 
@@ -91,7 +81,6 @@ async def update_points(request: Request):
 
     return {"status": "points updated"}
 
-
 @app.post("/admin/update_courses")
 async def update_courses(request: Request):
     data = await request.json()
@@ -101,7 +90,6 @@ async def update_courses(request: Request):
 
     return {"status": "courses updated"}
 
-
 @app.post("/admin/update_eav")
 async def update_eav(request: Request):
     data = await request.json()
@@ -110,3 +98,17 @@ async def update_eav(request: Request):
     update_version("eav")
 
     return {"status": "eav updated"}
+
+# ---------- MANUAL VERSION UPDATE ROUTE ----------
+
+@app.post("/admin/update_version")
+async def manual_update_version(request: Request):
+    data = await request.json()
+    key = data.get("key")
+
+    if not key:
+        return {"error": "Missing version key"}
+
+    update_version(key)
+
+    return {"status": f"{key} version updated"}
