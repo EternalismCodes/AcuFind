@@ -1,12 +1,20 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 import json
 import os
+import shutil
 
 app = FastAPI()
 
-# Allow frontend access
+# ---------- CONFIG ----------
+
+DATA_DIR = "data"
+IMAGE_DIR = "images"
+ADMIN_KEY = "supersecretkey"  # change this
+
+# ---------- CORS ----------
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -15,12 +23,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Serve images
-app.mount("/images", StaticFiles(directory="images"), name="images")
+# ---------- SERVE IMAGES ----------
 
-DATA_DIR = "data"
+app.mount("/images", StaticFiles(directory=IMAGE_DIR), name="images")
 
-# ---------- Helper Functions ----------
+# ---------- HELPER FUNCTIONS ----------
 
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -43,6 +50,10 @@ def update_version(key):
         version_data[key] += 1
 
     save_json(version_path, version_data)
+
+def check_admin(key):
+    if key != ADMIN_KEY:
+        raise HTTPException(status_code=403, detail="Invalid admin key")
 
 # ---------- ROOT ----------
 
@@ -74,6 +85,7 @@ def get_eav():
 
 @app.post("/admin/update_points")
 async def update_points(request: Request):
+
     data = await request.json()
     save_json(os.path.join(DATA_DIR, "points.json"), data)
 
@@ -83,6 +95,7 @@ async def update_points(request: Request):
 
 @app.post("/admin/update_courses")
 async def update_courses(request: Request):
+
     data = await request.json()
     save_json(os.path.join(DATA_DIR, "courses.json"), data)
 
@@ -92,6 +105,7 @@ async def update_courses(request: Request):
 
 @app.post("/admin/update_eav")
 async def update_eav(request: Request):
+
     data = await request.json()
     save_json(os.path.join(DATA_DIR, "eav.json"), data)
 
@@ -103,6 +117,7 @@ async def update_eav(request: Request):
 
 @app.post("/admin/update_version")
 async def manual_update_version(request: Request):
+
     data = await request.json()
     key = data.get("key")
 
@@ -112,3 +127,70 @@ async def manual_update_version(request: Request):
     update_version(key)
 
     return {"status": f"{key} version updated"}
+
+# ---------- IMAGE MANAGEMENT ----------
+
+# Upload image
+@app.post("/admin/upload_image")
+async def upload_image(file: UploadFile = File(...), key: str = ""):
+
+    check_admin(key)
+
+    file_path = os.path.join(IMAGE_DIR, file.filename)
+
+    with open(file_path, "wb") as buffer:
+        shutil.copyfileobj(file.file, buffer)
+
+    return {
+        "status": "image uploaded",
+        "filename": file.filename,
+        "url": f"/images/{file.filename}"
+    }
+
+# Delete image
+@app.delete("/admin/delete_image/{filename}")
+def delete_image(filename: str, key: str = ""):
+
+    check_admin(key)
+
+    file_path = os.path.join(IMAGE_DIR, filename)
+
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="Image not found")
+
+    os.remove(file_path)
+
+    return {
+        "status": "image deleted",
+        "filename": filename
+    }
+
+# Replace image
+@app.post("/admin/replace_image/{filename}")
+async def replace_image(filename: str, file: UploadFile = File(...), key: str = ""):
+
+    check_admin(key)
+
+    file_path = os.path.join(IMAGE_DIR, filename)
+
+    with open(file_path, "wb") as buffer:
+        shutil.copyfileobj(file.file, buffer)
+
+    return {
+        "status": "image replaced",
+        "filename": filename,
+        "url": f"/images/{filename}"
+    }
+
+# List all images
+@app.get("/admin/list_images")
+def list_images(key: str = ""):
+
+    check_admin(key)
+
+    files = os.listdir(IMAGE_DIR)
+
+    return {
+        "total": len(files),
+        "images": files
+    }
