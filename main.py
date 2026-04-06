@@ -81,6 +81,13 @@ def get_courses():
 def get_eav():
     return load_json(os.path.join(DATA_DIR, "eav.json"))
 
+@app.get("/health")
+async def health():
+    return {"status": "ok"}
+
+@app.head("/health")
+async def health_head():
+    return {}
 # ---------- ADMIN UPDATE APIs ----------
 
 @app.post("/admin/update_points")
